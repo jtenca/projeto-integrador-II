@@ -1,5 +1,5 @@
-# projeto-integrador-II
+# Projeto Integrador II 
 
-Projeto Integrador - 2º Semestre
+Projeto Integrador das disciplinas: PPSI-II e Práticas de Design - 2º Semestre
 
 Curso: Sistemas para Internet 
