@@ -1,0 +1,142 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    height: auto;
+    width: auto;
+}
+
+
+.container {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.artigoinfo {
+    background-color: white;
+}
+
+
+.artigoinfo > .artigoobra1 {
+    float: left;
+    margin-right: 5%;
+}
+
+
+.artigoinfo > .artigoobra2 {
+    float: left;
+    margin-right: 5%;
+}
+
+.artigoinfo > .artigoobra3 {
+    float: left;
+}
+
+.artigocale {
+    border: 1px solid blue;
+    width: auto;
+    margin: 0px 0px 0px 0px;
+    padding: 0;
+}
+
+.footerGeral{
+    /*display: block;*/
+    /*margin-left: 2px;*/
+    background-color: yellow;
+    width: auto;
+    /*width: 1320px;*/
+    /*margin-left: 5px;*/
+    
+}
+
+.footerBotoes {
+    margin-left: 5px;
+    /*float: left;*/
+    width: auto;
+    /*background-color: aqua;*/
+}
+
+.footerUL {
+    /*clear: both;
+    float: right;*/
+    font-size: 0.94em;
+    /*width: auto;*/
+    /*background-color: maroon;*/
+    text-align: right;
+    
+}
+
+.sect1 {
+    height: auto;
+    background-color: lightsteelblue;
+    width: auto;
+}
+
+.footerGeral .footerUL .footerULLI {
+    margin-left: 80px;
+    display: block;
+    /*float: right;*/
+    /*text-decoration: none;*/
+    color: green;
+    font-size: 1.1em;
+}
+
+.sect2 {
+    height: auto;
+    width: auto;
+    background-color: lightcoral;
+}
+.regras01 {
+    padding: 1% 5px 1% 5px;
+    margin-left: 5px;
+    font-size: 0.9em;
+    background-color: white;
+    color: blue;
+    text-align: justify;
+    
+}
+
+.artigoexpr {
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+.artig_homeEXPR img {
+    height: 110px;
+    width: 110px;
+}
+
+.ArtistasObras img {
+    height: 220px;
+    width: 220px;
+}
+
+.artista1, .artista2, .artista3, .artista4, .artista5, .artista6, .artista7 {
+    border: 1px solid blue;
+}
+
+.IMGartista {
+    height: 100px;
+    width: 100px;
+}
+
+
+/*.FaleCon01, .FaleCon02, .FaleCon03, .FaleCon04, .FaleCon05 {
+    float: left;
+}*/
+
+
+.faleconosco {
+    /*border: 1px solid blue;*/
+    display: block;
+    /*text-align: center;*/
+    margin:0 auto;
+    max-width: 600px;
+}
+
+.regras05 {
+    float: left;
+}
+
