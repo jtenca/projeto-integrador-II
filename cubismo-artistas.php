@@ -35,24 +35,87 @@
         </div>
 
         <!---------------- CONTEÚDO --------------->
+        <h4 class="text-center mt-2">Artistas Cubistas ou com Influências Cubistas</h4>
+        <div class="row mt-2">
+            <div class="col-3">
+                <div class="card" >
+                    <div class="card-title text-center">Pablo Picasso</div>
+                    <img class="card-img-top" src="img/pablo-picasso.jpg" />
+                    <div class="card-body">
+                        <p class="text-justify">Foi um pintor espanhol, escultor, ceramista, cenógrafo, poeta e dramaturgo que passou a maior parte da sua vida na França.</p>
+                        <a href="https://pt.wikipedia.org/wiki/Pablo_Picasso" class="btn btn-primary">Ir para a página</a>
+                    </div>
+                </div>
+            </div> <!-- div card 1 -->
+            
+            <div class="col-3">
+                <div class="card">
+                    <div class="card-title text-center">Georges Braque</div>
+                    <img class="card-img-top" src="img/georges-braque.jpg" />
+                    <div class="card-body">
+                        <p class="text-justify">Foi um pintor e escultor francês, que fundou o cubismo juntamente com Pablo Picasso, a maior parte da sua adolescência foi passada em Le Havre.</p>
+                        <a href="https://pt.wikipedia.org/wiki/Georges_Braque" class="btn btn-primary">Ir para a página</a>
+                    </div>
+                </div>
+            </div> <!-- div card 2 -->
+            
+            <div class="col-3">
+                <div class="card">
+                    <div class="card-title text-center">Juan Gris</div>
+                    <img class="card-img-top" src="img/juan-gris.jpg" />
+                    <div class="card-body">
+                        <p class="text-justify"> Foi um dos mais famosos e versáteis pintores e escultores cubistas espanhóis. Apesar de ter falecido jovem, Juan Gris representa o expoente máximo do cubismo sintético</p>
+                        <a href="https://pt.wikipedia.org/wiki/Juan_Gris" class="btn btn-primary">Ir para a página</a>
+                    </div>
+                </div>
+            </div> <!-- div card 3 -->
+            
+            <div class="col-3">
+                <div class="card">
+                    <div class="card-title text-center">Fernand Léger</div>
+                    <img class="card-img-top" src="img/leger.jpg" />
+                    <div class="card-body">
+                        <p class="text-justify">A partir do de 1911, conheceu Pablo Picasso e Georges Braque, os quais lhe transmitiram influências cubistas, nas quais se aplicou e trabalhou durante a maior parte da sua carreira artística.</p>
+                        <a href="https://pt.wikipedia.org/wiki/Fernand_Léger" class="btn btn-primary">Ir para a página</a>
+                    </div>
+                </div>
+            </div> <!-- div card 4 -->
+                    
+        </div> <!-- div row 1 -->
+        
         <div class="row">
-            <div class="col-4 m-2">
-                <section>
-                    <h5>Novidades</h5>
-
-                    <p class="text-justify">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-
-</p>
-                </section>
-            </div>
-
-            <div class="col-4 m-2">
-                <figure>
-                    <img src="img/" alt="">
-                </figure>
-            </div>
+            
+            <div class="col-3">
+                <div class="card">
+                    <div class="card-title text-center">Marcel Duchamp</div>
+                    <img class="card-img-top" src="img/duchamp.jpg" />
+                    <div class="card-body">
+                        <p class="text-justify">Marcel Duchamp começou sua carreira como artista criando pinturas de inspiração romantista, expressionista e cubista.</p>
+                        <a href="https://pt.wikipedia.org/wiki/Marcel_Duchamp" class="btn btn-primary">Ir para a página</a>
+                    </div>
+                </div>
+            </div> <!-- div card 4 -->
+            
+            
+            <div class="col-3">
+                <div class="card">
+                    <img class="card-img-top" src="" />
+                    <div class="card-body">
+                        <p class="text-justify"></p>
+                    </div>
+                </div>
+            </div> <!-- div card 5 -->
+            
+            
+            <div class="col-3">
+                <div class="card">
+                    <img class="card-img-top" src="" />
+                    <div class="card-body">
+                        <p class="text-justify"></p>
+                    </div>
+                </div>
+            </div> <!-- div card 6 -->
         </div>
-
         <!-------------------------------->
         <div class="row">
             <div class="col-12 fixed-bottom">
