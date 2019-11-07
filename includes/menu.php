@@ -17,16 +17,17 @@
          <div class="collapse navbar-collapse" id="navbarSupportedContent">
            <ul class="navbar-nav m-auto p-2 ">
              <li class="nav-item active">
-               <a class="nav-link" href="#">Home</a>
+               <a class="nav-link" href="index.php">Home</a>
              </li>
 
              <li class="nav-item dropdown">
-               <a class="nav-link dropdown-toggle pl-4" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+               <a class="nav-link dropdown-toggle pl-4" href="index-abstracionismo.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                  Abstracionismo
                </a>
                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                 <a class="dropdown-item" href="#">História</a>
-                 <a class="dropdown-item" href="#">Principais Artistas</a>
+                 <a class="dropdown-item" href="index-abstracionismo.php">Home</a>
+                 <a class="dropdown-item" href="historia-abstracionismo.php">História</a>
+                 <a class="dropdown-item" href="artistas-abstracionismo.php">Principais Artistas</a>
                  <a class="dropdown-item" href="#">Principais Obras</a>
                </div>
              </li>
@@ -48,20 +49,22 @@
                        Expressionismo
                  </a>
                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                     <a class="dropdown-item" href="#">História</a>
-                     <a class="dropdown-item" href="#">Principais Artistas</a>
-                     <a class="dropdown-item" href="#">Principais Obras</a>
+                     <a class="dropdown-item" href="">Home</a>
+                     <a class="dropdown-item" href="expressionismoHist.php">História</a>
+                     <a class="dropdown-item" href="expressionismoArtistas.php">Principais Artistas</a>
+                     <a class="dropdown-item" href="expressionismoObras.php">Principais Obras</a>
                  </div>
              </li>
 
              <li class="nav-item dropdown">
-                 <a class="nav-link dropdown-toggle pl-4" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                 <a class="nav-link dropdown-toggle pl-4" href="popart.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                      Pop-Art
                  </a>
                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                     <a class="dropdown-item" href="#">História</a>
-                     <a class="dropdown-item" href="#">Principais Artistas</a>
-                     <a class="dropdown-item" href="#">Principais Obras</a>
+                     <a class="dropdown-item" href="popart.php">Home</a>
+                     <a class="dropdown-item" href="historia.php">História</a>
+                     <a class="dropdown-item" href="principaisart.php">Principais Artistas</a>
+                     <a class="dropdown-item" href="principaisobras.php">Principais Obras</a>
                  </div>
              </li>
 
@@ -70,8 +73,9 @@
                        Surrealismo
                  </a>
                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                     <a class="dropdown-item" href="#">História</a>
-                     <a class="dropdown-item" href="#">Principais Artistas</a>
+                     <a class="dropdown-item" href="index-surrealismo.php">Home</a>
+                     <a class="dropdown-item" href="surrealismo.php">História</a>
+                     <a class="dropdown-item" href="principais-artistas-surrealismo.php">Principais Artistas</a>
                      <a class="dropdown-item" href="#">Principais Obras</a>
                  </div>
              </li>
@@ -83,7 +87,7 @@
                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                      <a class="dropdown-item" href="quem-somos.php">Quem Somos</a>
                      <a class="dropdown-item" href="#">Fale Conosco</a>
-                     <a class="dropdown-item" href="#">Normas de Uso</a>
+                     <a class="dropdown-item" href="normas.php">Normas de Uso</a>
                  </div>
              </li>
            </ul>
