@@ -49,7 +49,6 @@
                        Expressionismo
                  </a>
                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                     <a class="dropdown-item" href="">Home</a>
                      <a class="dropdown-item" href="expressionismoHist.php">História</a>
                      <a class="dropdown-item" href="expressionismoArtistas.php">Principais Artistas</a>
                      <a class="dropdown-item" href="expressionismoObras.php">Principais Obras</a>
