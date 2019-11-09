@@ -65,7 +65,7 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>Mostra de Fernanda Gomes, León Ferrari e Gravura Social Moderna na Pinacoteca.</td>
+                            <td>Mostra de Fernanda Gomes, León Ferrari Gravura Social Moderna na Pinacoteca.</td>
   
                         </tr>
                         <tr>

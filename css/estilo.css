@@ -77,10 +77,11 @@ img {
 }
 
 .artigocale {
-    border: 1px solid blue;
+    border: 1px solid black;
     width: auto;
     margin: 0px 0px 0px 0px;
     padding: 0;
+    background-color: white;
 }
 
 .footerGeral{
@@ -128,7 +129,7 @@ img {
 .sect2 {
     height: auto;
     width: auto;
-    background-color: lightcoral;
+    /*background-color: lightcoral;*/
 }
 .regras01 {
     padding: 1% 5px 1% 5px;
@@ -189,7 +190,15 @@ img {
     float: left;
 }
 
-
+hr {
+    height:3px;
+    border-width:100;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto 0 0;
+    
+    /*background: transparent url(linha.jpg) center no-repeat;*/
+    }
 
 /*---------------------- Kelvin CSS ---------------------*/
 

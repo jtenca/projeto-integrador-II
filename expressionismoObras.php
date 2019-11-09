@@ -33,7 +33,7 @@
             
             <h3 class="h2Quadro a01"> </h3>
             
-            <hr width = “2” size = “100”>
+            <hr color="black" width = “2” size = “100”>
             <div class="artista1">
                 <div class="row justify-content-md-center">
                     <h4>Salvador Dali</h4>
@@ -51,7 +51,7 @@
                 </div>
             </div>
 
-            <hr width = “2” size = “100”>
+            <hr noshade="noshade" width = “100%” size = “100”>
             <div class="artista2">
                <div class="row justify-content-md-center">
                     <h4>Max Ernst</h4>
@@ -69,7 +69,7 @@
                 </div>
             </div>
             
-            <hr width = “2” size = “100”>
+            <hr noshade="noshade" width = “100%” size = “100”>
             <div class="artista3">
                <div class="row justify-content-md-center">
                     <h4>Joan Miró</h4>
@@ -87,7 +87,7 @@
                 </div>
             </div>
             
-            <hr width = “2” size = “100”>
+            <hr noshade="noshade" width = “100%” size = “100”>
             <div class="artista4">
                <div class="row justify-content-md-center">
                     <h4>René Magritte</h4>
@@ -105,7 +105,7 @@
                 </div>
             </div>
             
-            <hr width = “2” size = “100”>
+            <hr noshade="noshade" width = “100%” size = “100”>
             <div class="artista5">
                <div class="row justify-content-md-center">
                     <h4>Frida Kahlo</h4>
@@ -123,7 +123,7 @@
                 </div>
             </div>
 
-            <hr width = “2” size = “100”>
+            <hr noshade="noshade" width = “100%” size = “100”>
             <div class="artista6">
                <div class="row justify-content-md-center">
                     <h4>Edvard Munch</h4>
@@ -141,8 +141,8 @@
                 </div>
             </div>
 
-            <hr width = “2” size = “100”>
-            <hr width = “2” size = “100”>
+            <hr noshade="noshade" width = “100%” size = “100”>
+            <hr noshade="noshade" width = “100%” size = “100”>
                                                                      
                                                                                                                                                                 
                                                                                                                                                                                                                                                                                                                                 

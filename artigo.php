@@ -19,7 +19,7 @@
                 <div class=" col-xs-3 col-sm-4 col-md-4 col-lg-4 artigocale">               
                     <h3 class="artigoh3"> Calendário Exposições</h3>
                     
-                    <table>
+                    <table class="table table-striped">
                     <thead>
                         <tr>
                             <th>Data</th>
