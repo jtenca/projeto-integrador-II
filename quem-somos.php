@@ -25,69 +25,84 @@
             </div>
         </div>
 
+        <!--Grupo
+
+            Erwin Bogner
+            Hellen
+            Jessica
+            Kelvin
+            Werica
+            !-->
+
         <!---------------- CONTEÚDO --------------->
         <div class="container">
         <article class="mt-4">
         <h4 class="text-center">Quem Somos</h4>
         <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-4">
-                <h5 class="text-center">Nome</h5>
+                <h5 class="text-center">Erwin Bogner</h5>
                 <figure class="text-lg-center text-md-center ">
                 <img src="img/user-icon.png" alt="..." class="rounded-circle">
                 </figure>
                 <p class="text-justify p-2">Breve Biografia</p>
 
                 <p class="text-justify">Redes Sociais</p>
+                <p class="text-justify">Áreas desenvolvidas</p>
+                <ul>
+                    <li><a href="index.php">HOME</a></li>
+                    <li><a href="expressionismoHist.php">Expressionismo</a></li>
+                    <li><a href="normas.php">Normas utilização</a></li>
+                    <li><a href="faleconosco01.php">Fale conosco</a></li>
 
             </div>
 
 
             <div class="col-lg-4 col-md-4 col-sm-4 ">
-                <h5 class="text-center">Nome</h5>
+                <h5 class="text-center">Hellen</h5>
                 <figure class="text-lg-center text-md-center ">
                 <img src="img/user-icon.png" alt="..." class="rounded-circle">
                 </figure>
                 <p class="text-justify">Breve Biografia</p>
 
                 <p class="text-justify">Redes Sociais</p>
-
+                <p class="text-justify">Áreas desenvolvidas</p>
             </div>
 
 
             <div class="col-lg-4 col-md-4 col-sm-4">
-                <h5 class="text-center">Nome</h5>
+                <h5 class="text-center">Jessica</h5>
                 <figure class="text-lg-center text-md-center ">
                 <img src="img/user-icon.png" alt="..." class="rounded-circle">
                 </figure>
                 <p class="text-justify">Breve Biografia</p>
 
                 <p class="text-justify">Redes Sociais</p>
-
+                <p class="text-justify">Áreas desenvolvidas</p>
             </div>
         </div> <!-- div row --->
 
         <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-4 mt-4">
-                <h5 class="text-center">Nome</h5>
+                <h5 class="text-center">Kelvin</h5>
                 <figure class="text-lg-center text-md-center ">
                 <img src="img/user-icon.png" alt="..." class="rounded-circle">
                 </figure>
                 <p class="text-justify">Breve Biografia</p>
 
                 <p class="text-justify">Redes Sociais</p>
-
+                <p class="text-justify">Áreas desenvolvidas</p>
             </div>
 
 
             <div class="col-lg-4 col-md-4 col-sm-4 mt-4">
-                <h5 class="text-center">Nome</h5>
+                <h5 class="text-center">Weica</h5>
                 <figure class="text-lg-center text-md-center ">
                 <img src="img/user-icon.png" alt="..." class="rounded-circle">
                 </figure>
                 <p class="text-justify">Breve Biografia</p>
 
                 <p class="text-justify">Redes Sociais</p>
-
+                <p class="text-justify">Áreas desenvolvidas</p>
             </div>
         </div>
         </article>

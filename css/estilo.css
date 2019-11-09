@@ -129,8 +129,35 @@ img {
 .sect2 {
     height: auto;
     width: auto;
+    /*padding: 5% 5% 5% 5%;*/
     /*background-color: lightcoral;*/
 }
+
+.sect3 {
+    color: blue;
+    margin-top: 10px;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    height: auto;
+    width: auto;
+    /*background-color: lightsteelblue;*/
+    width: auto;
+    border: 1px solid black;
+    text-align: center;
+    align-items: center;
+}
+
+.imgFC00 {
+    align-items: center;
+}
+
+.imgFC01 {
+    /*margin-left: 5%;*/
+    height: 140px;
+    width: 140px;
+    margin-left: 40%;
+}
+
 .regras01 {
     padding: 1% 5px 1% 5px;
     margin-left: 5px;
@@ -206,6 +233,10 @@ hr {
     color: black;
     font-size: 1.1em;
 
+}
+.RG02a {
+    padding: auto 10% auto 10%;
+    margin: 5% 5% 8% 5%;
 }
 
 /*---------------------- Kelvin CSS ---------------------*/

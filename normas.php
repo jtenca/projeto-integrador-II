@@ -26,18 +26,18 @@
                 <div class="col-xs-6 col-sm-9 col-md-12 col-lg-12 mt-2 col-sm-offset-2 col-md-offset-2 col-lg-offset-2">
                     <h3 class="text-center">Regras de uso PORTAL:</h3>
                     <p></p>
-                    <div class="text-justify">
-                        <p>O conteúdo publicado no PORTAL é baseado em material publico contido e distribuido na internet.</p>
+                    <div class="text-justify RG02a">
+                        <p>O conteúdo publicado no PORTAL <strong>LOSELLEN</strong> é baseado em material publico contido e distribuido na internet.</p>
                         <p>Os materiais publicados que tenham propriedade intelectual terão seus créditos divulgados.</p>
-                        <p>É proibido publicar, divulgar, propagar ou disseminar, em qualquer área do PORTAL, qualquer material protegido por direitos autorais, sem a devida autorização do autor ou de seu representante. É proibido, ainda, publicar imagens de pessoas sem prévia autorização.</p>
-                        <p>O PORTAL não se responsabiliza pelo conteúdo, opiniões e comentários dos freqüentadores de nenhuma área. Todo e qualquer cnteúdo publicado por visitantes não é revisado ou fiscalizado pelo PORTAL.</p>
-                        <p>Porém, o PORTAL poderá, a qualquer tempo e a seu critério, deixar qualquer conteúdo fora do âmbito das suas áreas na Internet ou excluir, parcial ou integralmente, qualquer conteúdo disponibilizado pelos usuários ou visitantes de seus serviços, caso possa ser interpretado que o referido conteúdo é contrário às normas legais em vigor, às presentes regras ou em razão de denúncias, sem que isto gere qualquer responsabilidade ao PORTAL ou direito ao usuário.</p>
-                        <p>Se por mais de uma vez forem descumpridas quaisquer das regras expostas ou for verificado o exercício de ilegalidades, as informações serão excluídas da Internet, e o visitante poderá ser excluído do PORTAL.</p>
+                        <p>É proibido publicar, divulgar, propagar ou disseminar, em qualquer área do PORTAL <strong>LOSELLEN</strong>, qualquer material protegido por direitos autorais, sem a devida autorização do autor ou de seu representante. É proibido, ainda, publicar imagens de pessoas sem prévia autorização.</p>
+                        <p>O PORTAL <strong>LOSELLEN</strong> não se responsabiliza pelo conteúdo, opiniões e comentários dos freqüentadores de nenhuma área. Todo e qualquer cnteúdo publicado por visitantes não é revisado ou fiscalizado pelo PORTAL <strong>LOSELLEN</strong>.</p>
+                        <p>Porém, o PORTAL <strong>LOSELLEN</strong> poderá, a qualquer tempo e a seu critério, deixar qualquer conteúdo fora do âmbito das suas áreas na Internet ou excluir, parcial ou integralmente, qualquer conteúdo disponibilizado pelos usuários ou visitantes de seus serviços, caso possa ser interpretado que o referido conteúdo é contrário às normas legais em vigor, às presentes regras ou em razão de denúncias, sem que isto gere qualquer responsabilidade ao PORTAL <strong>LOSELLEN</strong> ou direito ao usuário.</p>
+                        <p>Se por mais de uma vez forem descumpridas quaisquer das regras expostas ou for verificado o exercício de ilegalidades, as informações serão excluídas da Internet, e o visitante poderá ser excluído do PORTAL <strong>LOSELLEN</strong>.</p>
                         <p></p>
-                        <p>O PORTAL também se reserva o direito de reproduzir e publicar fotos ou trechos das páginas criadas em suas áreas em qualquer meio, a qualquer momento.</p>
-                        <p>O PORTAL não se responsabiliza por qualquer dano supostamente decorrente do uso das informações existentes em suas áras. O PORTAL se reserva o direito de modificar as regras de uso a qualquer momento, sob seu exclusivo critério.</p>
+                        <p>O PORTAL <strong>LOSELLEN</strong> também se reserva o direito de reproduzir e publicar fotos ou trechos das páginas criadas em suas áreas em qualquer meio, a qualquer momento.</p>
+                        <p>O PORTAL <strong>LOSELLEN</strong> não se responsabiliza por qualquer dano supostamente decorrente do uso das informações existentes em suas áras. O PORTAL <strong>LOSELLEN</strong> se reserva o direito de modificar as regras de uso a qualquer momento, sob seu exclusivo critério.</p>
                         <p></p>
-                        <p>O conteúdo publicado nas áreas de acesso do PORTAL não deve conter os seguintes itens:</p>
+                        <p>O conteúdo publicado nas áreas de acesso do PORTAL <strong>LOSELLEN</strong> não deve conter os seguintes itens:</p>
                         <ul>
                             <li><p>Material pornográfico ou atividades ilegais incluindo menores de 18 anos (segundo o artigo 241 do Estatuto da Criança e do Adolescente);</p></li>
                             <li><p>Material e/ou linguagem grosseira ou ofensiva;</p></li>
@@ -62,10 +62,10 @@
                             <li><p>Aplicam-se ainda aos usuários dos serviços UOL as Normas de Segurança e Privacidade do UOL, acessíveis diretamente da Home Page do UOL.</p></li>
                             <li><p>Comentários dos visitantes:</p></li>
                         </ul>
-                        <p>O PORTAL não se responsabiliza pelo conteúdo, opiniões e comentários dos freqüentadores de nenhum blog/fotoblog.</p>
-                        <p>O conteúdo publicado por visitantes nas áreas interativos não é revisado pelo PORTAL.</p>
-                        <p>O PORTAL se reserva o direito de, a seu próprio critério, armazenar as informações de usuários que se conectarem ao sistema de comentários, como forma de viabilizar eventuais identificações que se façam necessárias.</p>
-                        <p><spam>Denuncie quebra de regras e crimes virtuais</spam></p>
+                        <p>O PORTAL <strong>LOSELLEN</strong> não se responsabiliza pelo conteúdo, opiniões e comentários dos freqüentadores de nenhum blog/fotoblog.</p>
+                        <p>O conteúdo publicado por visitantes nas áreas interativos não é revisado pelo PORTAL <strong>LOSELLEN</strong>.</p>
+                        <p>O PORTAL <strong>LOSELLEN</strong> se reserva o direito de, a seu próprio critério, armazenar as informações de usuários que se conectarem ao sistema de comentários, como forma de viabilizar eventuais identificações que se façam necessárias.</p>
+                        <p><spam><strong>Denuncie quebra de regras e crimes virtuais !</strong></spam></p>
                     </div>
                 </div>
             </article>
