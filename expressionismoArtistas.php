@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <?php include('includes/head.php'); ?>
-        <title>Document</title>
+        <title>LOSELLEN - Expressionismo</title>
     </head>
     <body>
         <div class="container">

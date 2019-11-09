@@ -198,7 +198,15 @@ hr {
     margin: 0 auto 0 0;
     
     /*background: transparent url(linha.jpg) center no-repeat;*/
-    }
+}
+
+.regrasNorma {
+    text-align: justify;
+    background-color: lightgray;
+    color: black;
+    font-size: 1.1em;
+
+}
 
 /*---------------------- Kelvin CSS ---------------------*/
 
