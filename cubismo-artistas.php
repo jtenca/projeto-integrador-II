@@ -1,22 +1,14 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/bootstrap-reboot.css" />
-    <link rel="stylesheet" href="css/bootstrap.css" />
-    <link rel="stylesheet" href="css/bootstrap-grid.css" />
-    <link rel="stylesheet" href="css/estilo.css" />
-    <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Advent+Pro&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Antic+Slab&display=swap" rel="stylesheet">
+
+<?php include('includes/head.php'); ?>
 
     <title>Los Hellen</title>
 </head>
 <body>
 
-    <div class="container">
+    <div class="">
 
         <div class="row">
             <div class="col-12">
@@ -35,6 +27,8 @@
         </div>
 
         <!---------------- CONTEÚDO --------------->
+
+        <div class="container">
         <h4 class="text-center mt-2">Artistas Cubistas ou com Influências Cubistas</h4>
         <div class="row mt-2">
             <div class="col-3">
@@ -115,10 +109,11 @@
                     </div>
                 </div>
             </div> <!-- div card 6 -->
+</div>
         </div>
         <!-------------------------------->
         <div class="row">
-            <div class="col-12 fixed-bottom">
+            <div class="col-12">
                 <?php include('includes/footer.php'); ?> 
             </div>
         </div>
