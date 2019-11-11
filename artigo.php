@@ -27,6 +27,29 @@
                         </tr>
                     </thead>
                     <tbody>
+                        <?
+                            $handle = fopen( 'log.txt', 'r');
+                            $cont=0;
+                            $A30s=0;
+                            $D30s=0;
+                            while (!feof($handle)){
+                                $linha = fgets($handle,1024);
+                                if ( strlen( trim($linha))>0){
+                                    $alinha=explode( '|',$linha);
+                                    $hora=$alinha[2].':'.$alinha[3].':'.$alinha[4];
+                                    
+                                    echo "<tr>
+                                        <td>{alinha[0]}</td>
+                                        <td>{alinha[1]}</td>
+                                    </tr>";
+
+                                }                                
+                            }
+                            fclose($handle);
+                        ?>
+
+
+                        <!--
                         <tr>
                             <td>Outubro</td>
                             <td>Exposição Adriá Juliá na Pinacoteca.</td>
@@ -63,6 +86,7 @@
                             <td>Mostras de Leonor Antunes e Gego no MASP.</td>
  
                         </tr>
+                        !-->
                     </tbody>    
                     </table>
                                 
