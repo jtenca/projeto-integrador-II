@@ -21,15 +21,13 @@
             </div>
         </div>
         <!---------------- CONTEÚDO --------------->
-        <article class="container faleconosco">
+        <article class="faleconosco">
             <h3>FALE CONOSCO:</h3>
-            <div class="row imgFC00">
-                <img class="imgFC01" src="img/faleconosco1.jpg" alt="área fale conosco">
-                <!--<div class="col-xs-6 col-sm-10 col-md-10 col-lg-10 col-md-offset-3 col-lg-offset-3">!-->
-                <!--</div>!-->
-            </div>
             <div class="row">
-                <div class="col-xs-6 col-sm-12 col-md-12 col-lg-12 col-sm-offset-2 col-md-offset-2 col-lg-offset-2 sect3">
+                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                    <img class="imgFC01" src="img/faleconosco1.jpg" alt="área fale conosco">
+                </div>!-->
+                <div class="col-xs-9 col-sm-8 col-md-8 col-lg-8 sect3">
                     <form>
                         <label class="FaleCon01">Digite teu nome:
                             <input type="text" class="form-control" />
@@ -58,10 +56,8 @@
                             <textarea name=" " class="form-control" id-"" cols="30" rows="=10">
                             </textarea>
                         </label>
-                        
                         <br>
                         <input type="submit" value="ENVIAR">
-                        
                     </form>
                 </div>
             </div>

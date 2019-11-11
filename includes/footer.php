@@ -14,8 +14,8 @@
         <div class="col-6 float-right">
         
             <li class=""><a href="quem-somos.php">Quem somos</a></li>
-            <li class=""><a href="faleconosco.php">Fale conosco</a></li>
-            <li class=""><a href="normasutilizacao.php">Normas utilização</a></li>
+            <li class=""><a href="faleconosco01.php">Fale conosco</a></li>
+            <li class=""><a href="normas.php">Normas utilização</a></li>
 
         </div>
     </section>
