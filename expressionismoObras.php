@@ -20,8 +20,18 @@
                     </nav>
                 </div>
             </div>
-            <!---------------- CONTEÚDO --------------->
-            <div class="container">
+            <div class="row">
+                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 shadow-sm">
+                    <nav>
+                        <ul class="menuEXPR">
+                            <li><a href="index.php">HOME</a></li>
+                            <li><a href="expressionismoHist.php">HISTORIA</a></li>
+                            <li><a href="expressionismoArtistas.php">ARTISTAS</a></li>
+                            <li><a href="expressionismoObras.php">OBRAS</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <!---------------- CONTEÚDO --------------->
                 <div "col-xs-9 col-sm-9 col-md-9 col-lg-9 align-self-center artigoexpr">
                     <article class="artig_homeEXPR">
                         

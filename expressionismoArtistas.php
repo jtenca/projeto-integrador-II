@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
     <head>
         <?php include('includes/head.php'); ?>
         <title>LOSELLEN - Expressionismo</title>
@@ -21,11 +21,20 @@
                 </div>
             </div>
             <div class="row">
-                <div "col-xs-9 col-sm-9 col-md-9 col-lg-9 align-self-center artigoexpr">
+                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 shadow-sm">
+                    <nav>
+                        <ul class="menuEXPR">
+                            <li><a href="index.php">HOME</a></li>
+                            <li><a href="expressionismoHist.php">HISTORIA</a></li>
+                            <li><a href="expressionismoArtistas.php">ARTISTAS</a></li>
+                            <li><a href="expressionismoObras.php">OBRAS</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 align-self-center artigoexpr">
                     <h4 class="text-center mt-2">Principais Artistas do Expressionismo</h4>
                     <div class="table table-striped col-xs-8 col-sm-10 col-md-10 col-lg-10 col-sd-offset-2 col-md-offset-2 col-lg-offset-2 table-bordered artigoexpr mt-2">
                         <article class="text-">
-                            
                             Principais artistas do Expressionismo
                             Selecionamos alguns dos principais representantes da arte expressionista e do pós-impressionismo (que foram os grandes inspiradores e precursores do Expressionismo). Veja:
                             <table class="table">
@@ -133,26 +142,20 @@
                                         <td>(1853-1890)</td>
                                         <td>x</td>
                                     </tr>
-                                    
                                 </tbody>
-                                
                             </table>
                         </article>
                     </div>
-                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <?php include('includes/footer.php'); ?>
                 </div>
             </div>
         </div>
-    </article>
-</div>
-<div class="row">
-    <div class="col-12">
-        <?php include('includes/footer.php'); ?>
-    </div>
-</div>
-</div>
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-</body>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    </body>
 </html>
