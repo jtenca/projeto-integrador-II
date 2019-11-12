@@ -40,7 +40,7 @@
                      <a class="dropdown-item" href="cubismo-home.php">Home</a>
                      <a class="dropdown-item" href="cubismo-historia.php">História</a>
                      <a class="dropdown-item" href="cubismo-artistas.php">Principais Artistas</a>
-                     <a class="dropdown-item" href="#">Principais Obras</a>
+                     <a class="dropdown-item" href="cubismo-obras.php">Principais Obras</a>
                  </div>
              </li>
 
