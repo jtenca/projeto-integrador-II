@@ -26,8 +26,24 @@
             <article class="artigoGeral sect1">
                 <div id="artigo" class="row">
                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 artigonovi">
-                        <h1 class="artigoh1"> Novidades</h1>
-                        <p> Aqui temos uma obra Renascentisma muito conhecida!</p>
+                        <h1 class="artigoh1"> Curiosidades</h1>
+                        <p> Aqui temos algumas das obras mais caras já comercializadas!</p>
+                        <section  class="row ObrasCaras">
+                            <div class="1OC col-6">
+                                <div class="zoom">
+                                    <img src="img/1oc.jpg" alt="primeira obra mais cara já vendida" class="img-responsive">
+                                </div>
+                                <p><strong>1. The Card Players (1892-93), Paul Cezanne – U$259 milhões.</strong> Esta é, na verdade, uma série de cinco pinturas feitas pelo artista pós-impressionista da França chamado Paul Cezanne.</p>
+                            </div>
+                            <div class="2OC col-6">
+                                <div class="zoom">
+                                    <img src="img/2oc.jpg" alt="segunda obra mais cara já vendida" class="img-responsive">
+                                </div>
+                                <p><strong>2. No. 5, (1948), Jackson Pollock – U$140 milhões.</strong>
+                                Um comprador desconhecido comprou esta pintura por meio de uma venda privada realizada na Sothebys em 2006. Originalmente propriedade de Samuel Irving Newhouse Jr., a pin</p>
+                            </div>
+
+                        </section>
                     </div>
                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 artigoinfo">
                         <h1 class="artigoh1"> Informações</h1>
