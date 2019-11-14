@@ -42,11 +42,17 @@
             <div class="col-lg-4 col-md-4 col-sm-4">
                 <h5 class="text-center">Erwin Bogner</h5>
                 <figure class="text-lg-center text-md-center ">
-                <img src="img/user-icon.png" alt="..." class="rounded-circle">
+                <img src="img/erwinV1.jpg" alt="desenvolvedor do portal, Erwin Bogner" class="rounded-circle" width="160" height="160">
                 </figure>
                 <p class="text-justify p-2">Breve Biografia</p>
 
                 <p class="text-justify">Redes Sociais</p>
+                    <ol>
+                        <li>Facebook</li>
+                        <li>Wthasapp</li>
+                        <li>Linkedin</li>
+                    </ol>
+
                 <p class="text-justify">Áreas desenvolvidas</p>
                 <ul>
                     <li><a href="index.php">HOME</a></li>

@@ -42,7 +42,7 @@
                             <div class="row justify-content-md-center">
                                 <h4>Salvador Dali</h4>
                             </div>
-                            <div class="row justify-content-md-center">
+                            <div class="row justify-content-md-center zoom">
                                 <a href="#"><img src="img/01_salvador-dali.jpg" alt="pintor Salvador Dali"></a>
                             </div>
                             <p></p>
@@ -59,7 +59,7 @@
                             <div class="row justify-content-md-center">
                                 <h4>Max Ernst</h4>
                             </div>
-                            <div class="row justify-content-md-center">
+                            <div class="row justify-content-md-center zoom">
                                 <a href="#"><img class="IMGartista" src="img/02_max-ernst.jpg" alt="pintor Max Ernst"></a>
                             </div>
                             <p></p>
@@ -77,7 +77,7 @@
                             <div class="row justify-content-md-center">
                                 <h4>Joan Miró</h4>
                             </div>
-                            <div class="row justify-content-md-center">
+                            <div class="row justify-content-md-center zoom">
                                 <a href="#"><img class="IMGartista" src="img/03_joan_miro.jpg" alt="pintor Joan Miró"></a>
                             </div>
                             <p></p>
@@ -95,7 +95,7 @@
                             <div class="row justify-content-md-center">
                                 <h4>René Magritte</h4>
                             </div>
-                            <div class="row justify-content-md-center">
+                            <div class="row justify-content-md-center zoom">
                                 <a href="#"><img class="IMGartista" src="img/04_rene_magritte.jpg" alt="pintor René Magritte"></a>
                             </div>
                             <p></p>
@@ -113,7 +113,7 @@
                             <div class="row justify-content-md-center">
                                 <h4>Frida Kahlo</h4>
                             </div>
-                            <div class="row justify-content-md-center">
+                            <div class="row justify-content-md-center zoom">
                                 <a href="#"><img class="artista" src="img/05_frida_kalho.jpg" alt="pintora Frida Kahlo"></a>
                             </div>
                             <p></p>
@@ -130,7 +130,7 @@
                             <div class="row justify-content-md-center">
                                 <h4>Edvard Munch</h4>
                             </div>
-                            <div class="row justify-content-md-center">
+                            <div class="row justify-content-md-center zoom">
                                 <a href="#"><img class="artista" src="img/06_edvard_munch.jpg" alt="pintor Edvard Munch"></a>
                             </div>
                             <p></p>
