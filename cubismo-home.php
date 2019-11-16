@@ -77,20 +77,20 @@
                 <aside>
                     <h5>Galerias de Arte</h5>
 
-                    <div class="border border-secondary rounded p-2">
+                    <div class="border p-2">
                       <h5>Choque Cultural</h5>
                       <p class="text-justify">O espaço é uma referência em arte urbana e na investigação de novas linguagens contemporâneas. Apresenta jovens artistas ao lado de nomes já consagrados e internacionais, investindo em intercâmbios, residências, exposições, colaborações, imersões, projetos institucionais e de arte pública.</p>
                       <p class="text-center">Onde: Rua Medeiros de Albuquerque, 250 - Vila Madalena.</p>
-                      <div class="text-center alert alert-secondary">
+                      <div class="text-alert-j text-center alert">
                       <a href="https://www.facebook.com/ChoqueCultural/">Site Oficial</a>
                       </div>
                   </div>
                   
-                  <div class="border border-secondary rounded mt-1 p-2">
+                  <div class="border mt-1 p-2">
                       <h4>A7MA</h4>
                       <p class="text-justify">Pronuncia-se a sétima. O espaço surgiu com o objetivo de explorar, amplificar e conceder visibilidade à arte de rua e às vertentes da arte contemporânea influenciadas por ela. O espaço na Vila Madalena com pouco mais de 100 m² é referência no que se refere à arte de rua na cidade de São Paulo.</p>
                       <p class="text-center">Onde: Rua Harmonia, 95B - Vila Madalena</p>
-                      <div class="text-center alert alert-secondary">
+                      <div class="text-alert-j text-center alert">
                       <a href="http://a7ma.art.br/">Site Oficial</a>
                       </div>
                   </div>
