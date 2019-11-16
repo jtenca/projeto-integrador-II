@@ -17,7 +17,11 @@
 }
 */
 h1, h2, h3, h4, h5, h6 {
-     text-align: center;
+    font-family: 'Enriqueta', serif;
+    text-align: center;
+}
+p {
+    font-family: 'Enriqueta', serif;
 }
 
 li a {
@@ -28,6 +32,7 @@ li a {
     font-weight: ;  
 } 
 
+    
 
 /*---------------------- Werica CSS ---------------------*/
 
@@ -266,6 +271,14 @@ hr {
 .btn-j {
     background-color: #112E60;
     color: white;
+}
+.text-alert-j {
+    background-color: #112E60;
+    color: white;
+}
+
+.border-galeria-j {
+    border: 2px solid #112E60;
 }
 
 /*---------------------- Ellen CSS ---------------------*/
