@@ -19,17 +19,15 @@
 h1, h2, h3, h4, h5, h6 {
      text-align: center;
 }
+
 li a {
     font-family: 'Advent Pro', sans-serif;
+    color: #000;
     font-size: 1.2em;
-    text-transform: uppercase;
-}
+    text-transform: uppercase;   
+    font-weight: ;  
+} 
 
-nav {
-    background-color: ;
-}
-
-nav, ul, li, a { color: black;}
 
 /*---------------------- Werica CSS ---------------------*/
 
@@ -261,7 +259,9 @@ hr {
 
 /*---------------------- Jessica CSS ---------------------*/
 
-
+.card {
+    border: 2px solid #C0C0C0;
+}
 
 /*---------------------- Ellen CSS ---------------------*/
 
