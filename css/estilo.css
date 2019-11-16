@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 
 li a {
     font-family: 'Advent Pro', sans-serif;
-    color: #000;
+    color: #000000;
     font-size: 1.2em;
     text-transform: uppercase;   
     font-weight: ;  
@@ -254,17 +254,18 @@ hr {
     margin: 5% 5% 8% 5%;
 }
 
-.pQS_Erwin { 
-    font-size: 0.7em;
-    text-align: justify;
- }
 /*---------------------- Kelvin CSS ---------------------*/
 
 
 /*---------------------- Jessica CSS ---------------------*/
 
-.card {
-    border: 2px solid #C0C0C0;
+.card-j {
+    border-left: 6px solid #112E60;
+
+}
+.btn-j {
+    background-color: #112E60;
+    color: white;
 }
 
 /*---------------------- Ellen CSS ---------------------*/
