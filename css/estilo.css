@@ -17,11 +17,11 @@
 }
 */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Enriqueta', serif;
+    font-family: 'Muli', sans-serif;
     text-align: center;
 }
 p {
-    font-family: 'Enriqueta', serif;
+    font-family: 'Muli', sans-serif;
 }
 
 li a {
@@ -30,9 +30,11 @@ li a {
     font-size: 1.2em;
     text-transform: uppercase;   
     font-weight: ;  
-} 
+}
 
-    
+.container{
+    margin-top: 140px;;
+}
 
 /*---------------------- Werica CSS ---------------------*/
 
@@ -275,10 +277,6 @@ hr {
 .text-alert-j {
     background-color: #112E60;
     color: white;
-}
-
-.border-galeria-j {
-    border: 2px solid #112E60;
 }
 
 /*---------------------- Ellen CSS ---------------------*/

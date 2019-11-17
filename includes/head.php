@@ -9,6 +9,6 @@
     <link rel="stylesheet" href="css/estilo.css" />
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Advent+Pro&display=swap" rel="stylesheet">
-   <!-- <link href="https://fonts.googleapis.com/css?family=Antic+Slab&display=swap" rel="stylesheet">-->class
-   <link href="https://fonts.googleapis.com/css?family=Enriqueta&display=swap" rel="stylesheet">
+   <!-- <link href="https://fonts.googleapis.com/css?family=Antic+Slab&display=swap" rel="stylesheet">-->
+   <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
 </head>
