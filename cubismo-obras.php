@@ -49,6 +49,30 @@
                 </figure>
             </div>
         </div><!-- div row 1 -->
+
+        <div class="row mt-lg-5 mt-md-3 mt-sm-2">
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <figure>
+                    <img src="img/samba-di-cavalcanti.jpg" alt="">
+                    <figcaption>Samba de Di Cavalcanti - 1925</figcaption>
+                </figure>
+            </div>
+
+          
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <figure>
+                    <img src="img/antropofagia-tarsila.png" alt="">
+                    <figcaption>Antropofagia de Tarsila do Amaral - 1929</figcaption>
+                </figure>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <figure>
+                    <img src="img/pieta-rego-monteiro.jpg" alt="">
+                    <figcaption>Pietá de Vicente do Rego Monteiro - 1924</figcaption>
+                </figure>
+            </div>
+     
     </div> <!-- div container -->
     
     <div class="row">

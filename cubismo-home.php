@@ -29,9 +29,9 @@
     <div class="container">
         <div class="row">
             <section class="mt-2 col-lg-3 col-md-6 col-sm-12">
-                <h5>Fases do Cubismo</h5>
+                <h4>Fases do Cubismo</h4>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="card mt-5" style="width: 14rem;" >
+                    <div class="card mt-3" style="width: 14rem;" >
                         <img class="card-img-top" src="img/autorretrato-picasso-cubismo-pre-analitico.jpg" alt="" />
                         <div class="text-center">
                         <a href="https://pt.wikipedia.org/wiki/Cubismo_c%C3%A9zanniano" class="text-center">Cubismo Cézanniano</a>
@@ -39,17 +39,24 @@
                     </div> <!-- div card -->
 
 
-                    <div class="card mt-5" style="width: 14rem;" >
+                    <div class="card mt-2" style="width: 14rem;" >
                         <img class="card-img-top" src="img/violino-e-candelabro-cubismo.jpg" alt="" />
                         <div class="text-center">
                         <a href="https://pt.wikipedia.org/wiki/Cubismo_anal%C3%ADtico" class="text-center">Cubismo Analítico</a>
                         </div> <!-- card body -->
                     </div> <!-- div card -->
 
-                    <div class="card mt-5" style="width: 14rem;" >
+                    <div class="card mt-2" style="width: 14rem;" >
                         <img class="card-img-top" src="img/cubismo-sintetico.jpg" alt="" />
                         <div class="text-center">
                         <a href="http://lulanzi6.blogspot.com/2013/04/8s-anos-bimestre-cubismo-ideia-da.html" class="text-center">Cubismo Sintético</a>
+                        </div> <!-- card body -->
+                    </div> <!-- div card -->
+
+                    <div class="card mt-2" style="width: 14rem;" >
+                        <img class="card-img-top" src="img/livros.jpg" alt="" />
+                        <div class="text-center">
+                        <a href="https://querobolsa.com.br/enem/literatura/cubismo" class="text-center">Literatura Cubista</a>
                         </div> <!-- card body -->
                     </div> <!-- div card -->
 
@@ -72,12 +79,11 @@
                 </article>
             </div> <!-- div article -->
 
-            <div class="col-lg-4 col-md-4 col-sm-12 mt-2">
-            
-                <aside>
-                    <h5>Galerias de Arte</h5>
-
-                    <div class="border p-2">
+            <div class="col-lg-4 col-md-4 col-sm-12 mt-3">
+                <h4>Galerias de Arte</h4>
+               <aside>
+                    
+                    <div class="border border-secondary p-2 mt-2">
                       <h5>Choque Cultural</h5>
                       <p class="text-justify">O espaço é uma referência em arte urbana e na investigação de novas linguagens contemporâneas. Apresenta jovens artistas ao lado de nomes já consagrados e internacionais, investindo em intercâmbios, residências, exposições, colaborações, imersões, projetos institucionais e de arte pública.</p>
                       <p class="text-center">Onde: Rua Medeiros de Albuquerque, 250 - Vila Madalena.</p>
@@ -86,7 +92,7 @@
                       </div>
                   </div>
                   
-                  <div class="border mt-1 p-2">
+                  <div class="border border-secondary mt-1 p-2">
                       <h4>A7MA</h4>
                       <p class="text-justify">Pronuncia-se a sétima. O espaço surgiu com o objetivo de explorar, amplificar e conceder visibilidade à arte de rua e às vertentes da arte contemporânea influenciadas por ela. O espaço na Vila Madalena com pouco mais de 100 m² é referência no que se refere à arte de rua na cidade de São Paulo.</p>
                       <p class="text-center">Onde: Rua Harmonia, 95B - Vila Madalena</p>

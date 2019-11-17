@@ -4,14 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="css/estilo.css" />
+  <link rel="stylesheet" href="css/estilo.css" /> 
 
   <title>Document</title>
   
-<nav class="navbar navbar-expand-lg navbar-light">
-        <!--<a class="navbar-brand" href="index.php">
-        <img src="img/logo2.png" width="120" height="100" alt="">
-        </a>-->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top shadow p-3 mb-3" style="background-color: #FFFFFF;">
+       <a class="navbar-brand" href="index.php">
+        <img src="img/logo-brand.png" width="70" height="60" alt="">
+        </a>
          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
            <span class="navbar-toggler-icon"></span>
          </button>
