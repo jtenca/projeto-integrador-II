@@ -40,13 +40,13 @@
                 <article class="mb-lg-4">
                     <h4 class="text-center">História do Cubismo</h4>
 
-                    <div class="col-5 ml-lg-5 float-left">
+                    <div class="col-lg-6 col-md-10 col-sm-12 float-left">
                         <p class="text-justify">Cubismo é um movimento artístico vanguardista europeu, que surgiu na França no começo do século XX e se caracteriza pela utilização de formas geométricas para retratar a natureza</p>
                         <p class="text-justify">O cubismo foi fundado em Paris, através do renomado artista espanhol Pablo Picasso (1881 - 1973) e do francês Georges Braque (1882 - 1963).</p>
                         <p class="text-justify"> Historicamente o Cubismo originou-se na obra de Cézanne, pois para ele a pintura deveria tratar as formas da natureza como se fossem cones, esferas e cilindros. Para Cézanne, a pintura não podia desvincular-se da natureza, tampouco copiava a natureza; de fato, a transformava. Ele dizia: “Mudo a água em vinho, o mundo em pintura”.</p>
                     </div> <!-- div article 1 -->
 
-                    <div class="col-5 mr-lg-5 float-right">
+                    <div class="col-lg-6 col-md-10 col-sm-12  float-right">
                     <p class="text-justify">De modo geral, o cubismo é marcado pela representação de figuras da natureza a partir do uso de formas geométricas, promovendo a fragmentação e decomposição dos planos e perspectivas. O artista cubista deixa de ter o compromisso em utilizar a aparência real das coisas, como acontecia durante o Renascimento.</p>
                             <p class="text-justify">A arte cubista é considerada uma “arte mental”, onde cada aspecto da obra deve ser analisado e estudado de modo individual.</p>
                     </div> <!-- div article 2 -->

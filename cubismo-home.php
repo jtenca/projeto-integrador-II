@@ -28,9 +28,9 @@
         <!---------------- CONTEÚDO --------------->
     <div class="container">
         <div class="row">
-            <section class="mt-2">
+            <section class="mt-2 col-lg-3 col-md-6 col-sm-12">
                 <h5>Fases do Cubismo</h5>
-                <div class="col-3">
+                <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="card mt-5" style="width: 14rem;" >
                         <img class="card-img-top" src="img/autorretrato-picasso-cubismo-pre-analitico.jpg" alt="" />
                         <div class="text-center">
@@ -56,7 +56,7 @@
                 </div> <!-- div coluna -->
             </section>
 
-            <div class="col-5 mt-2">
+            <div class="col-lg-5 col-md-12 col-sm-12 mt-2">
                 <article>
                     <h4>Guernica</h4>
                     <p class="text-justify">Com 349 cm de altura por 776,5 cm de comprimento, Guernica, uma das obras mais famosas de Pablo Picasso.</p>
@@ -72,29 +72,35 @@
                 </article>
             </div> <!-- div article -->
 
-            <div class="col-4 mt-2">
+            <div class="col-lg-4 col-md-4 col-sm-12 mt-2">
             
                 <aside>
                     <h5>Galerias de Arte</h5>
 
-                    <div class="border border-success rounded p-2">
+                    <div class="border p-2">
                       <h5>Choque Cultural</h5>
                       <p class="text-justify">O espaço é uma referência em arte urbana e na investigação de novas linguagens contemporâneas. Apresenta jovens artistas ao lado de nomes já consagrados e internacionais, investindo em intercâmbios, residências, exposições, colaborações, imersões, projetos institucionais e de arte pública.</p>
                       <p class="text-center">Onde: Rua Medeiros de Albuquerque, 250 - Vila Madalena.</p>
+                      <div class="text-alert-j text-center alert">
                       <a href="https://www.facebook.com/ChoqueCultural/">Site Oficial</a>
+                      </div>
                   </div>
                   
-                  <div class="border border-success rounded mt-1 p-2">
+                  <div class="border mt-1 p-2">
                       <h4>A7MA</h4>
                       <p class="text-justify">Pronuncia-se a sétima. O espaço surgiu com o objetivo de explorar, amplificar e conceder visibilidade à arte de rua e às vertentes da arte contemporânea influenciadas por ela. O espaço na Vila Madalena com pouco mais de 100 m² é referência no que se refere à arte de rua na cidade de São Paulo.</p>
                       <p class="text-center">Onde: Rua Harmonia, 95B - Vila Madalena</p>
+                      <div class="text-alert-j text-center alert">
                       <a href="http://a7ma.art.br/">Site Oficial</a>
+                      </div>
                   </div>
                 </aside>
             </div> <!-- div aside -->
         </div> <!-- div row -->
 
-        <div></div> <!-- div row 2 -->
+        <div class="row">
+            
+        </div> <!-- div row 2 -->
 
         </div> <!-- div container -->
 

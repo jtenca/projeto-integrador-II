@@ -23,7 +23,33 @@
         </div>
     </div>
 
-    <div class="container"></div> <!-- div container -->
+    <div class="container">
+        <div class="row mt-4">
+        <div class="col-12 mb-4">
+            <h4 class="text-center">Algumas Obras Importantes do Cubismo</h4>
+        </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <figure>
+                    <img src="img/mulher-que-chora-picasso.jpg" alt="">
+                    <figcaption>A Mulher Que Chora de Pablo Picasso - 1937</figcaption>
+                </figure>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <figure>
+                    <img src="img/homem-no-cafe-gris.jpg" alt="">
+                    <figcaption>Homens No Café de Juan Gris - 1914</figcaption>
+                </figure>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <figure>
+                    <img src="img/tres-mulheres-leger.jpeg" alt="">
+                    <figcaption>Três Mulheres de Fernand Léger - 1921/22</figcaption>
+                </figure>
+            </div>
+        </div><!-- div row 1 -->
+    </div> <!-- div container -->
     
     <div class="row">
         <div class="col-12">

@@ -17,19 +17,22 @@
 }
 */
 h1, h2, h3, h4, h5, h6 {
-     text-align: center;
+    font-family: 'Enriqueta', serif;
+    text-align: center;
 }
+p {
+    font-family: 'Enriqueta', serif;
+}
+
 li a {
     font-family: 'Advent Pro', sans-serif;
+    color: #000000;
     font-size: 1.2em;
-    text-transform: uppercase;
-}
+    text-transform: uppercase;   
+    font-weight: ;  
+} 
 
-nav {
-    background-color: ;
-}
-
-nav, ul, li, a { color: black;}
+    
 
 /*---------------------- Werica CSS ---------------------*/
 
@@ -261,7 +264,22 @@ hr {
 
 /*---------------------- Jessica CSS ---------------------*/
 
+.card-j {
+    border-left: 6px solid #112E60;
 
+}
+.btn-j {
+    background-color: #112E60;
+    color: white;
+}
+.text-alert-j {
+    background-color: #112E60;
+    color: white;
+}
+
+.border-galeria-j {
+    border: 2px solid #112E60;
+}
 
 /*---------------------- Ellen CSS ---------------------*/
 

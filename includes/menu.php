@@ -8,8 +8,10 @@
 
   <title>Document</title>
   
-<nav class="navbar navbar-expand-lg navbar-light ">
-        <!--<a class="navbar-brand" href="#">Navbar</a>-->
+<nav class="navbar navbar-expand-lg navbar-light">
+        <!--<a class="navbar-brand" href="index.php">
+        <img src="img/logo2.png" width="120" height="100" alt="">
+        </a>-->
          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
            <span class="navbar-toggler-icon"></span>
          </button>
@@ -21,7 +23,7 @@
              </li>
 
              <li class="nav-item dropdown">
-               <a class="nav-link dropdown-toggle pl-4" href="index-abstracionismo.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+               <a class="nav-link active dropdown-toggle pl-4" href="index-abstracionismo.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                  Abstracionismo
                </a>
                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -33,7 +35,7 @@
              </li>
 
              <li class="nav-item dropdown">
-                 <a class="nav-link dropdown-toggle pl-4" href="cubismo-home.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                 <a class="nav-link active dropdown-toggle pl-4" href="cubismo-home.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                        Cubismo
                  </a>
                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -44,7 +46,7 @@
                  </div>
              </li>
 
-             <li class="nav-item dropdown">
+             <li class="nav-item active dropdown">
                  <a class="nav-link dropdown-toggle pl-4" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                        Expressionismo
                  </a>
@@ -55,7 +57,7 @@
                  </div>
              </li>
 
-             <li class="nav-item dropdown">
+             <li class="nav-item active dropdown">
                  <a class="nav-link dropdown-toggle pl-4" href="popart.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                      Pop-Art
                  </a>
@@ -67,7 +69,7 @@
                  </div>
              </li>
 
-             <li class="nav-item dropdown">
+             <li class="nav-item active dropdown">
                  <a class="nav-link dropdown-toggle pl-4" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                        Surrealismo
                  </a>
@@ -79,7 +81,7 @@
                  </div>
              </li>
 
-             <li class="nav-item dropdown">
+             <li class="nav-item active dropdown">
                  <a class="nav-link dropdown-toggle pl-4" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                        Informações
                  </a>
