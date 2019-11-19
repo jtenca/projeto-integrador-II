@@ -9,8 +9,8 @@
   <title>Document</title>
   
 <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow p-3 mb-3" style="background-color: #FFFFFF;">
-       <a class="navbar-brand" href="index.php">
-        <img src="img/logo-brand.png" width="70" height="60" alt="">
+      <a class="navbar-brand" href="index.php">
+        <img src="img/logo-brand.png" width="80" height="65" alt="">
         </a>
          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
            <span class="navbar-toggler-icon"></span>

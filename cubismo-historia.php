@@ -40,13 +40,13 @@
                 <article class="mb-lg-4">
                     <h4 class="text-center">História do Cubismo</h4>
 
-                    <div class="col-lg-6 col-md-10 col-sm-12 float-left">
+                    <div class="col-lg-6 col-md-12 col-sm-12 float-left">
                         <p class="text-justify">Cubismo é um movimento artístico vanguardista europeu, que surgiu na França no começo do século XX e se caracteriza pela utilização de formas geométricas para retratar a natureza</p>
                         <p class="text-justify">O cubismo foi fundado em Paris, através do renomado artista espanhol Pablo Picasso (1881 - 1973) e do francês Georges Braque (1882 - 1963).</p>
                         <p class="text-justify"> Historicamente o Cubismo originou-se na obra de Cézanne, pois para ele a pintura deveria tratar as formas da natureza como se fossem cones, esferas e cilindros. Para Cézanne, a pintura não podia desvincular-se da natureza, tampouco copiava a natureza; de fato, a transformava. Ele dizia: “Mudo a água em vinho, o mundo em pintura”.</p>
                     </div> <!-- div article 1 -->
 
-                    <div class="col-lg-6 col-md-10 col-sm-12  float-right">
+                    <div class="col-lg-6 col-md-12 col-sm-12  float-right">
                     <p class="text-justify">De modo geral, o cubismo é marcado pela representação de figuras da natureza a partir do uso de formas geométricas, promovendo a fragmentação e decomposição dos planos e perspectivas. O artista cubista deixa de ter o compromisso em utilizar a aparência real das coisas, como acontecia durante o Renascimento.</p>
                             <p class="text-justify">A arte cubista é considerada uma “arte mental”, onde cada aspecto da obra deve ser analisado e estudado de modo individual.</p>
                     </div> <!-- div article 2 -->
@@ -59,21 +59,21 @@
                 <p class="text-justify">O cubismo ganhou espaço no Brasil somente depois da Semana de Arte Moderna de 1922, no entanto, não existem no país artistas que apresentaram obras com características exclusivas do Cubismo. Os artistas brasileiros receberam fortes influências, mas apenas mostrando características mescladas do Cubismo com outras expressões artísticas em suas obras.</p>
             </div>
 
-                <div class="col-3 shadow rounded">
+                <div class="col-lg-3 col-md-4 col-sm-4 shadow rounded">
                     <figure>
                     <img class="card-img-top" src="img/anita-malfatti.jpg" alt="" />
                     </figure>                
                     <a href="https://pt.wikipedia.org/wiki/Anita_Malfatti" class="text-center">Anita Malfatti</a>
                 </div> <!-- div cubistas brasileiros 1 -->
 
-                <div class="col-3 shadow rounded">
+                <div class="col-lg-3 col-md-4 col-sm-4 shadow rounded">
                     <figure>
                     <img class="card-img-top" src="img/dicavalcanti.jpg" alt="" />
                     </figure>                
                     <a href="https://pt.wikipedia.org/wiki/Di_Cavalcanti" class="text-center">Di Cavalcante</a>
                 </div> <!-- div cubistas brasileiros 2 -->
 
-                <div class="col-3 shadow rounded">
+                <div class="col-lg-3 col-md-4 col-sm-4 shadow rounded">
                     <figure>
                     <img class="card-img-top" src="img/tarsila.jpg" alt="" />
                     </figure>                
