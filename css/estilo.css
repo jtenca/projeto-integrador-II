@@ -90,6 +90,27 @@ img {
     background-color: white;
 }
 
+.artigoobra1 {
+    font-size: 0.6em;
+    text-align: justify;
+    border: 1px solid blue;
+}
+
+.artigoobra2 {
+    font-size: 0.6em;
+    text-align: justify;
+    border: 1px solid blue;
+}
+
+.texto_zoom:hover {
+    /*font-size:20px; /*aumenta o tamanho do link*/
+    /*color:#FF0000; /*muda a cor do texto do link*/
+    font-size: 1.4em;
+    background: black; /*muda a cor de fundo do link*/
+    color: white;
+    /*text-decoration:overline; /*coloca uma linha acima do texto*/
+    
+}
 .zoom {
     /*overflow: hidden;*/
 }

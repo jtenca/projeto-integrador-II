@@ -47,15 +47,19 @@
                     </div>
                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 artigoinfo">
                         <h1 class="artigoh1"> Informações</h1>
-                        <div class="artigoobra1">
-                            Obra 1
+                        <div class="artigoobra1 col-xs-5 col-sm-5 col-md-5 col-lg-5">
+                           <h5>O que é "ARTE"</h5>
+                           <div class="texto_zoom">
+                            <p>A arte é uma das melhores maneiras do ser humano expressar seus sentimentos e emoções. Ela pode estar representada de diversas maneiras, através da pintura plástica, escultura, cinema, teatro, dança, música, arquitetura, dentre outros. A arte é o reflexo da cultura e da história, considerando os valores estéticos da beleza, do equilíbrio e da harmonia.</p>
+                           <a href="http://historia-da-arte.info/o-que-e-arte.html">Saiba mais</a>     
+                           </div>
                         </div>
-                        <div class="artigoobra2">
+                        <div class="artigoobra2 col-xs-5 col-sm-5 col-md-5 col-lg-5">
                             Obra 2
                         </div>
-                        <div class="artigoobra3">
+                        <!--<div class="artigoobra3 col-xs-3 col-sm-3 col-md-3 col-lg-3">
                             Obra 3
-                        </div>
+                        </div>!-->
                     </div>
                     <div class=" col-xs-3 col-sm-4 col-md-4 col-lg-4 artigocale">
                         <h3 class="artigoh3"> Calendário Exposições</h3>

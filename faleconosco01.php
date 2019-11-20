@@ -1,33 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <?php include('includes/head.php'); ?>
-        <title>Normas de Utilização</title>
-    </head>
-    <body>
-        
-        <div class="row">
-            <div class="col-12">
-                <header>
-                    <?php include('includes/header.php'); ?>
-                </header>
-            </div>
+
+<head>
+    <?php include('includes/head.php'); ?>
+    <title>Normas de Utilização</title>
+</head>
+
+<body>
+
+    <div class="row">
+        <div class="col-12">
+            <header>
+                <?php include('includes/header.php'); ?>
+            </header>
         </div>
-        <div class="row">
-            <div class="col-12 shadow-sm">
-                <nav>
-                    <?php include('includes/menu.php'); ?>
-                </nav>
-            </div>
+    </div>
+    <div class="row">
+        <div class="col-12 shadow-sm">
+            <nav>
+                <?php include('includes/menu.php'); ?>
+            </nav>
         </div>
-        <!---------------- CONTEÚDO --------------->
-        <article class="faleconosco">
-            <h3>FALE CONOSCO:</h3>
+    </div>
+    <!---------------- CONTEÚDO --------------->
+    <div class="container">
+        <article class="aaarow">
             <div class="row">
-                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
                     <img class="imgFC01" src="img/faleconosco1.jpg" alt="área fale conosco">
-                </div>!-->
-                <div class="col-xs-9 col-sm-8 col-md-8 col-lg-8 sect3">
+                </div>
+                <div class="col-xs-8 col-sm-7 col-md-7 col-lg-7 sect3 col-sm-offset-2 col-md-offset-2 col-lg-offset-2">
+                    <h3>FALE CONOSCO:</h3>
+                    <p></p>
                     <form>
                         <label class="FaleCon01">Digite teu nome:
                             <input type="text" class="form-control" />
@@ -61,8 +65,9 @@
                     </form>
                 </div>
             </div>
-        </div>
-    </article>
+        </article>
+    </div>
+
     <!-- fechamento div container -->
     <!-------------------------------->
     <div class="row">
@@ -74,4 +79,5 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </body>
+
 </html>
