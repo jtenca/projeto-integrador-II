@@ -83,10 +83,32 @@
                 <figure class="text-lg-center text-md-center ">
                 <img src="img/user-icon.png" alt="..." class="rounded-circle">
                 </figure>
-                <p class="text-justify">Breve Biografia</p>
 
-                <p class="text-justify">Redes Sociais</p>
-                <p class="text-justify">Áreas desenvolvidas</p>
+                <div>
+                    <!--<p>Breve Biografia</p>-->
+                    <figure>
+                        <h5>Breve Biografia</h5>
+                        <img src="img/bio-icon.png" alt="ícone ilustrando biografia">
+                    </figure>
+                    <p class="text-justify">De Campinas-SP, vive há 20 anos na Cidade de Alumínio, Bacharel em Sistemas de Informação pela Faculdade Barão de Piratininga, cursando Sistemas para Internet na FATEC São Roque.</p>                    
+                </div>
+                <div class="text-center">
+                <h5>Áreas Desenvolvidas</h5>
+                    <figure>
+                        <p><img src="img/html-coding.png" alt="ícone ilustrando código" /> Cubismo</p>
+                        <p><img src="img/html-coding.png" alt="ícone ilustrando código" /> Quem Somos</p>
+                    </figure>
+                </div>
+
+                <div class="text-center mt-2">
+                    <h5>Redes Sociais</h5>
+                    <figure>
+                        <a href=""><img src="img/github.png" alt=""></a>
+                        <a href=""><img src="img/instagram.png" alt=""></a>
+                        <a href=""><img src="img/twitter.png" alt=""></a>
+                    </figure>
+                </div>          
+               
             </div>
         </div> <!-- div row --->
 
