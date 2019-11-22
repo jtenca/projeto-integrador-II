@@ -94,7 +94,7 @@ img {
     font-size: 0.6em;
     text-align: justify;
     /*border: 1px solid blue;*/
-    background-color: lightgray;
+    background-color: white;
 }
 
 .artigoobra2 {
@@ -123,11 +123,24 @@ img {
     height: 300px;
 }
 
+
 #artigo2 {
     /*margin-top: 1%;*/
     padding-top: 3%;
     background-color: white;
 }
+
+#artigo3 {
+    /*margin-top: 1%;*/
+    padding-top: 3%;
+    background-color: white;
+}
+
+.artigo3IMG1 img, .artigo3IMG2 img, .artigo3IMG3 img, .artigo3IMG4 img, .artigo3IMG5 img {
+    width: 260px;
+    height: 220px;
+}
+
 
 .texto_zoom:hover {
     /*font-size:20px; /*aumenta o tamanho do link*/

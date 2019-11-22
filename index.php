@@ -49,27 +49,42 @@
                 </div>
                 <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 artigoinfo no-gutter">
                     <h1 class="artigoh1"> Informações</h1>
-                    <div class="artigoobra1 col-xs-5 col-sm-5 col-md-5 col-lg-5 no-gutter" style="padding:0;">
-                        <h5>O que é "ARTE"</h5>
-                        <div class="texto_zoom">
-                            <p>A arte é uma das melhores maneiras do ser humano expressar seus sentimentos e emoções. Ela pode estar representada de diversas maneiras, através da pintura plástica, escultura, cinema, teatro, dança, música, arquitetura, dentre outros. A arte é o reflexo da cultura e da história, considerando os valores estéticos da beleza, do equilíbrio e da harmonia.</p>
-                            <a href="http://historia-da-arte.info/o-que-e-arte.html"><strong>Saiba mais</strong></a>
+                    <div class="row">
+                        <hr noshade="noshade" width=“100%” size=“100”>
+                    </div>
+                    <div class="row">
+                        <div class="artigoobra1 col-xs-11 col-sm-12 col-md-12 col-lg-12">
+                            <!-- style="padding:0;">!-->
+                            <h5>O que é "ARTE"</h5>
+                            <div class="texto_zoom">
+                                <p>A arte é uma das melhores maneiras do ser humano expressar seus sentimentos e emoções. Ela pode estar representada de diversas maneiras, através da pintura plástica, escultura, cinema, teatro, dança, música, arquitetura, dentre outros. A arte é o reflexo da cultura e da história, considerando os valores estéticos da beleza, do equilíbrio e da harmonia.</p>
+                                <a href="http://historia-da-arte.info/o-que-e-arte.html"><strong>Saiba mais</strong></a>
+                            </div>
                         </div>
                     </div>
-                    <div class="artigoobra2 col-xs-5 col-sm-5 col-md-5 col-lg-5 no-gutter" style="padding:0;">
-                        <h5>Surrealismo, expressionism, cubismo... </h5>
-                        <div class="texto_zoom">
-                            <p>Depois de séculos apreciando obras clássicas, a sociedade pós-Revolução Industrial se viu com novas tecnologias como a fotografia e o cinema, e nas artes plásticas as formas abstratas ganharam espaço. São tantos os movimentos surgidos nos períodos de arte moderna, contemporânea e pós-contemporânea, que é possível se confundir com algumas das características.</p>
-                            <p>Para minimizar essa confusão, conheça alguns dos artistas que se destacam em seus cenários</p>
-                            <ul>
-                                <li>Kandinsky (1866-1944)</li>
-                                <li>Pablo Picasso (1881-1973)</li>
-                                <li>Joan Miró (1893-1983)</li>
-                                <li>Andy Warhol (1928-1987)</li>
-                                <li>Romero Britto (1963 - )</li>
-                            </ul>
-                            <a href="index.php#artigo3"><strong>Saiba mais</strong></a>
+                    <div class="row">
+                        <hr noshade="noshade" width=“100%” size=“100”>
+                    </div>
+                    <div class="row">
+                        <div class="artigoobra1 col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <!-- style="padding:0;">!-->
+                            <h5>Surrealismo, expressionismo, cubismo... </h5>
+                            <div class="texto_zoom">
+                                <p>Depois de séculos apreciando obras clássicas, a sociedade pós-Revolução Industrial se viu com novas tecnologias como a fotografia e o cinema, e nas artes plásticas as formas abstratas ganharam espaço. São tantos os movimentos surgidos nos períodos de arte moderna, contemporânea e pós-contemporânea, que é possível se confundir com algumas das características.</p>
+                                <p>Para minimizar essa confusão, conheça alguns dos artistas que se destacam em seus cenários</p>
+                                <ul>
+                                    <li>Kandinsky (1866-1944)</li>
+                                    <li>Pablo Picasso (1881-1973)</li>
+                                    <li>Joan Miró (1893-1983)</li>
+                                    <li>Andy Warhol (1928-1987)</li>
+                                    <li>Romero Britto (1963 - )</li>
+                                </ul>
+                                <a href="index.php#artigo3"><strong>Saiba mais</strong></a>
+                            </div>
                         </div>
+                    </div>
+                    <div class="row">
+                        <hr noshade="noshade" width=“100%” size=“100”>
                     </div>
                     <!--<div class="artigoobra3 col-xs-3 col-sm-3 col-md-3 col-lg-3">
                             Obra 3
@@ -143,11 +158,7 @@
                                 !-->
                         </tbody>
                     </table>
-
-
-
                 </div>
-
             </div>
             <div id="artigo2" class="row">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 artigoIMG1">
@@ -180,28 +191,40 @@
                 </div>
 
             </div>
+            <hr noshade="noshade" width=“100%” size=“100”>
 
             <div id="artigo3" class="row">
-                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 artigoIMG1">
+                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 artigo3IMG1">
                     <li>Kandinsky (1866-1944)</li>
+                    <img src="img/ind08_foto_kandisk.jpg" alt="foto de Wassily Kandisky">
                     O russo Wassily Kandinsky é um dos responsáveis pela inserção da abstração nas artes visuais. Suas obras tinham direta influência da música clássica, especialmente o compositor Arnold Schönberg, com quem manteve correspondência entre 1911 e 1914.
                 </div>
-                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 artigoIMG1">
+                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 artigo3IMG1">
                     <li>Pablo Picasso (1881-1973)</li>
-                    O espanol Pablo Ruiz Picasso é um dos pintores mais conhecidos no mundo e se detacou por fundar o Cubismo, ao lado de Georges Braque. Uma de suas pinturas mais famosas é o mural feito como crítica ao bombardeio alemão de Guernica durante a Guerra Civil Espanhola. Atualmente, a obra está em exposição permanente no Museu Nacional Centro de Arte Rainha Sofia, em Madri.
+                    <img src="img/pablo-picasso.jpg" alt="foto de pblo picasso">
+                    <p>O espanol Pablo Ruiz Picasso é um dos pintores mais conhecidos no mundo e se detacou por fundar o Cubismo, ao lado de Georges Braque. Uma de suas pinturas mais famosas é o mural feito como crítica ao bombardeio alemão de Guernica durante a Guerra Civil Espanhola. Atualmente, a obra está em exposição permanente no Museu Nacional Centro de Arte Rainha Sofia, em Madri.</p>
                 </div>
-                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 artigoIMG1">
+                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 artigo3IMG1">
                     <li>Joan Miró (1893-1983)</li>
-                    O artista espanhol se formou em Barcelona e, em Paris, teve contato com tendências modernistas como o fauvismo e o dadaísmo. Após conhecer Picasso e André Breton, fundadores do surrealismo, Miró fez as obras "O Carnaval do Arlequim" e "Maternidade", que dão início a uma linguagem em que símbolos remetem a uma fantasia, opondo-se às profundezas da arte surreal.
+                    <img src="img/03_joan_miro.jpg" alt="foto de joan miró">
+                    <p>O artista espanhol se formou em Barcelona e, em Paris, teve contato com tendências modernistas como o fauvismo e o dadaísmo. Após conhecer Picasso e André Breton, fundadores do surrealismo, Miró fez as obras "O Carnaval do Arlequim" e "Maternidade", que dão início a uma linguagem em que símbolos remetem a uma fantasia, opondo-se às profundezas da arte surreal.</p>
                 </div>
-                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 artigoIMG1">
+                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 artigo3IMG1">
                     <li>Andy Warhol (1928-1987)</li>
-                    Norte-americano descendente de família eslovaca, Andy Warhol se graduou em design pelo Instituto de Tecnologia de Carnegie, atuamente Universidade Carnegie Mellon. Trabalhou como ilustrador de diversas revistas, e na década de 1960 passou a utilizar conceitos da publicidade em suas obras - característica que o alçou para o sucesso.
+                    <img src="img/Andy_Warhol.jpg" alt="foto de andy warhol">
+                    <p>Norte-americano descendente de família eslovaca, Andy Warhol se graduou em design pelo Instituto de Tecnologia de Carnegie, atuamente Universidade Carnegie Mellon. Trabalhou como ilustrador de diversas revistas, e na década de 1960 passou a utilizar conceitos da publicidade em suas obras - característica que o alçou para o sucesso.</p>
                 </div>
-                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 artigoIMG1">
+                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 artigo3IMG1">
                     <li>Romero Britto (1963 - )</li>
-                    Apesar de ser brasileiro (nasceu no Recife, Pernambuco, em 1963), Romero Britto foi radicado em Miami, nos Estados Unidos, onde é também embaixador das artes do Estado da Flórida desde 2005. Reconhecido como um artista pop, Britto tem uma carreira controversa: enquanto suas obras são chamadas de "arte da cura" por admiradores, críticos consideram que seu trabalho é uma diluição genérica do estilo pop art. Já produziu quadros para a presidente Dilma Rousseff e o casal real príncipe William e Kate Middleton.
+                    <img src="img/ind09_foto_romeroBrito.jpg" alt="foto de romero brito">
+                    <p>Apesar de ser brasileiro (nasceu no Recife, Pernambuco, em 1963), Romero Britto foi radicado em Miami, nos Estados Unidos, onde é também embaixador das artes do Estado da Flórida desde 2005. Reconhecido como um artista pop, Britto tem uma carreira controversa: enquanto suas obras são chamadas de "arte da cura" por admiradores, críticos consideram que seu trabalho é uma diluição genérica do estilo pop art. Já produziu quadros para a presidente Dilma Rousseff e o casal real príncipe William e Kate Middleton.</p>
                 </div>
+                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 artigo3IMG1">
+                    <li>Tarcila Amaral (1886 - 1973)</li>
+                    <img src="img/ind10_foto_tarcilaAmaral.jpg" alt="foto de tarcila do amaral">
+                    <p>Tarsila do Amaral foi uma pintora, desenhista e tradutora brasileira e uma das figuras centrais da pintura e da primeira fase do movimento modernista no Brasil, ao lado de Anita Malfatti. Seu quadro Abaporu, de 1928, inaugura o movimento antropofágico nas artes plásticas.</p>
+                </div>
+                <hr noshade="noshade" width=“100%” size=“100”>
         </article>
     </div> <!-- fechamento div container -->
 
