@@ -55,7 +55,9 @@
                            </div>
                         </div>
                         <div class="artigoobra2 col-xs-5 col-sm-5 col-md-5 col-lg-5">
-                            Obra 2
+                            <p><strong>Surrealismo, expressionismo, cubismo... </strong></p>
+                            <p>depois de séculos apreciando obras clássicas, a sociedade pós-Revolução Industrial se viu com novas tecnologias como a fotografia e o cinema, e nas artes plásticas as formas abstratas ganharam espaço. São tantos os movimentos surgidos nos períodos de arte moderna, contemporânea e pós-contemporânea, que é possível se confundir com algumas das características.</p>
+                            <p>Para minimizar essa confusão, conheça alguns dos artistas que se destacam em seus cenários</p>
                         </div>
                         <!--<div class="artigoobra3 col-xs-3 col-sm-3 col-md-3 col-lg-3">
                             Obra 3
