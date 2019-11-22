@@ -93,13 +93,19 @@ img {
 .artigoobra1 {
     font-size: 0.6em;
     text-align: justify;
-    border: 1px solid blue;
+    /*border: 1px solid blue;*/
+    background-color: lightgray;
 }
 
 .artigoobra2 {
+    
     font-size: 0.6em;
     text-align: justify;
-    border: 1px solid blue;
+    /*border: 1px solid blue;*/
+    background-color: lightgray;
+    width: auto;
+    padding: 1%;
+    margin-left: 2%;
 }
 
 .artigoIMG1, .artigoIMG2, .artigoIMG3, .artigoIMG4 {
@@ -110,6 +116,11 @@ img {
 .artigoIMG1 h4, .artigoIMG2 h4, .artigoIMG3 h4, .artigoIMG4 h4 {
     color: blue;
     font-size: 1.2em;
+}
+
+.artigoIMG1 img, .artigoIMG2 img, .artigoIMG3 img, .artigoIMG4 img {
+    width: 260px;
+    height: 300px;
 }
 
 #artigo2 {
