@@ -35,14 +35,18 @@
                             <div class="zoom">
                                 <img src="img/1oc.jpg" alt="primeira obra mais cara já vendida" class="img-responsive">
                             </div>
-                            <p><strong>1. The Card Players (1892-93), Paul Cezanne – U$259 milhões.</strong> Esta é, na verdade, uma série de cinco pinturas feitas pelo artista pós-impressionista da França chamado Paul Cezanne.</p>
+                            <p><strong>1. The Card Players (1892-93), Paul Cezanne – U$259 milhões.</strong> Esta é, na verdade, uma série de cinco pinturas feitas pelo artista pós-impressionista da França chamado Paul Cezanne, foi um dos últimos trabalhos do artista, durante 6 anos trabalhou nesta série.
+                                Em nenhum dos quadros existe temporalidade, porque não há ação, não existe troca de olhares, emoções estampadas em seus rostos, eles simplesmente estão ali, e o tempo passa tão preguiçoso, que dá a sensação de não passar.
+                            </p>
                         </div>
                         <div class="2OC col-6">
                             <div class="zoom">
                                 <img src="img/2oc.jpg" alt="segunda obra mais cara já vendida" class="img-responsive">
                             </div>
                             <p><strong>2. No. 5, (1948), Jackson Pollock – U$140 milhões.</strong>
-                                Um comprador desconhecido comprou esta pintura por meio de uma venda privada realizada na Sothebys em 2006. Originalmente propriedade de Samuel Irving Newhouse Jr., a pin</p>
+                                Jackson Pollock foi um pintor norte-americano, famoso no campo do impressionismo abstrato. Esta pintura é caracterizada pela espessa tinta marrom e amarela retratando gotejamentos e chuviscos. De acordo com especialistas de arte, esta é uma representação abstrata de um ninho.
+                                Um comprador desconhecido comprou esta pintura por meio de uma venda privada realizada na Sothebys em 2006. Originalmente propriedade de Samuel Irving Newhouse Jr.
+                            </p>
                         </div>
 
                     </section>
@@ -87,28 +91,28 @@
                         <hr noshade="noshade" width=“100%” size=“100”>
                     </div>
                     <div class="row">
-                    <div class="artigoobra1 col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <div class="artigoobra1 col-xs-12 col-sm-12 col-md-12 col-lg-12">
                             <h5>Bandeira do BRASIL </h5>
                             <div class="texto_zoom">
-                               <h6>Uma obra prima nacional é nossa bandeira</h6>
+                                <h6>Uma obra prima nacional é nossa bandeira</h6>
                                 <p>A bandeira do Brasil nem sempre foi assim do jeito que a conhecemos. O país já teve umas 13 versões, a cada mudança um novo símbolo nacional era criado.
-                                Em 1815, por exemplo, quando o país deixou de ser colonia de Portugal, adotou a bandeira do 
-                                Reino Unido de Portugal, Brasil e Algarve. Seis anos depois, em 1821, já havia uma nova, que 
-                                vigorou até 1822.
-                                A bandeira que conhecemos hoje já dura mais de cem anos. Por ter sido criada em 19 de novembro
-                                de 1889, o Dia da Bandeira é comemorada nesta data. 
-                                <a href="https://www1.folha.uol.com.br/folhinha/2019/11/no-dia-da-bandeira-conheca-cinco-curiosidades-sobre-o-simbolo-nacional.shtml"><strong>Saiba mais</strong></a>
+                                    Em 1815, por exemplo, quando o país deixou de ser colonia de Portugal, adotou a bandeira do
+                                    Reino Unido de Portugal, Brasil e Algarve. Seis anos depois, em 1821, já havia uma nova, que
+                                    vigorou até 1822.
+                                    A bandeira que conhecemos hoje já dura mais de cem anos. Por ter sido criada em 19 de novembro
+                                    de 1889, o Dia da Bandeira é comemorada nesta data.
+                                    <a href="https://www1.folha.uol.com.br/folhinha/2019/11/no-dia-da-bandeira-conheca-cinco-curiosidades-sobre-o-simbolo-nacional.shtml"><strong>Saiba mais</strong></a>
                                 </p>
-                        </div>
-                        <div class="zoom">
-                            <img src="img/ind11_BandeiraBrasil.jpg" alt="Bandeira do Brasil" width="350">
-                        </div>
+                            </div>
+                            <div class="zoom">
+                                <img src="img/ind11_BandeiraBrasil.jpg" alt="Bandeira do Brasil" width="350">
+                            </div>
                         </div>
                     </div>
                     <div class="row">
                         <hr noshade="noshade" width=“100%” size=“100”>
                     </div>
-                           <!--<div class="artigoobra3 col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                    <!--<div class="artigoobra3 col-xs-3 col-sm-3 col-md-3 col-lg-3">
                             Obra 3
                         </div>!-->
                 </div>

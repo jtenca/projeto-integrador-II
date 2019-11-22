@@ -82,6 +82,10 @@ img {
     float: left;
 }
 
+.ObrasCaras {
+    text-align: justify;
+}
+
 .artigocale {
     border: 1px solid black;
     width: auto;
@@ -91,7 +95,7 @@ img {
 }
 
 .artigoobra1 {
-    font-size: 0.6em;
+    font-size: 0.8em;
     text-align: justify;
     /*border: 1px solid blue;*/
     background-color: white;
