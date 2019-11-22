@@ -23,16 +23,16 @@
         </div>
     </div>
     <!---------------- CONTEÚDO --------------->
-    <div class="container">
-        <article class="aaarow">
-            <div class="row">
+    <article class="aaarow">
+        <div class="container">
+            <div class="row form-group">
                 <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
                     <img class="imgFC01" src="img/faleconosco1.jpg" alt="área fale conosco">
                 </div>
                 <div class="col-xs-8 col-sm-7 col-md-7 col-lg-7 sect3 col-sm-offset-2 col-md-offset-2 col-lg-offset-2">
                     <h3>FALE CONOSCO:</h3>
                     <p></p>
-                    <form>
+                    <form class="form-horizontal">
                         <label class="FaleCon01">Digite teu nome:
                             <input type="text" class="form-control" />
                         </label>
@@ -65,8 +65,9 @@
                     </form>
                 </div>
             </div>
-        </article>
-    </div>
+        </div>
+    </article>
+    <!--</div>!-->
 
     <!-- fechamento div container -->
     <!-------------------------------->

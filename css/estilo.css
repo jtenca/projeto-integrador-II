@@ -102,6 +102,22 @@ img {
     border: 1px solid blue;
 }
 
+.artigoIMG1, .artigoIMG2, .artigoIMG3, .artigoIMG4 {
+    background-color: white;
+    font-size: 0.7em;
+    text-align: justify;
+}
+.artigoIMG1 h4, .artigoIMG2 h4, .artigoIMG3 h4, .artigoIMG4 h4 {
+    color: blue;
+    font-size: 1.2em;
+}
+
+#artigo2 {
+    /*margin-top: 1%;*/
+    padding-top: 3%;
+    background-color: white;
+}
+
 .texto_zoom:hover {
     /*font-size:20px; /*aumenta o tamanho do link*/
     /*color:#FF0000; /*muda a cor do texto do link*/
@@ -243,11 +259,18 @@ img {
     width: 100px;
 }
 
+.imgHist01 {
+    width: 700px;
+    /*height: 200%;*/
+}
 
 /*.FaleCon01, .FaleCon02, .FaleCon03, .FaleCon04, .FaleCon05 {
     float: left;
 }*/
 
+.aaarow .container {
+    background-color: white;
+}
 
 .faleconosco {
     /*border: 1px solid blue;*/

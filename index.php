@@ -135,6 +135,29 @@
                     </div>
                     
                 </div>
+                <div id="artigo2" class="row">
+                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 artigoIMG1">
+                        <img src="img/ind01_leonardo-da-vinci-mona-lisa.jpg">
+                        <h4>Mona Lisa, de Leonardo da Vinci</h4>
+                        <p>A pintura considerada a obra-prima de Leonardo da Vinci foi iniciada em 1503/1506 e acabou sendo concluída somente em 1517. Apesar de ser uma tela pequena, com apenas 77 cm por 53 cm, Mona Lisa fascina os espectadores com o seu sorriso enigmático. Atualmente o quadro se encontra no museu do Louvre, em Paris.</p>
+                    </div>
+                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 artigoIMG2">
+                        <img src="img/ind02-van-gogh-starry-night.jpg">
+                        <h4>A noite estrelada, de Van Gogh</h4>
+                        <p>Uma série de quadros do holandês Vincent van Gogh poderia figurar na lista de pinturas mais famosas do mundo. Escolhemos, no entanto, A noite estrelada, pintada em 1889. A peça é uma pintura a óleo em tela que mede 73,7 cm × 92,1 cm e se encontra atualmente no MoMA, em Nova Iorque.</p>
+                    </div>
+                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 artigoIMG3">
+                        <img src="img/ind03_maxresdefault.jpg">
+                        <h4>Composição número 5 (1948), de Pollock</h4>
+                        <p>O pintor norte americano Jackson Pollock é uma referência no mundo da pintura abstrata. Sua Composição número 5 foi pintada em 1948 e adquirida em 2006 por um comprador particular que ofereceu 140 milhões de dólares pela obra.</p>
+                    </div>
+                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 artigoIMG4">
+                        <img src="img/ind04_rene.jpg">
+                        <h4>A traição das imagens, de Magritte</h4>
+                        <p>Representante do surrealismo, o pintor belga René Magritte criou obras polêmicas como A traição das imagens. O quadro de 63,5cm × 93,98cm foi pintado entre 1928 e 1929 e atualmente pertence a coleção do Museu de Arte do Condado de Los Angeles.</p>
+                    </div>
+
+                </div>
             </article>
             </div> <!-- fechamento div container -->
             
