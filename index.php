@@ -194,6 +194,7 @@
                     </table>
                 </div>
             </div>
+            <h3 class="h3index">* Principais obras *</h3>
             <div id="artigo2" class="row">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 artigoIMG1">
                     <div class="zoom">
@@ -226,7 +227,7 @@
 
             </div>
             <hr noshade="noshade" width=“100%” size=“100”>
-
+            <h3 class="h3index">* Principais artistas *</h3>
             <div id="artigo3" class="row">
                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 artigo3IMG1">
                     <li>Kandinsky (1866-1944)</li>
@@ -239,7 +240,7 @@
                     <p>O espanol Pablo Ruiz Picasso é um dos pintores mais conhecidos no mundo e se detacou por fundar o Cubismo, ao lado de Georges Braque. Uma de suas pinturas mais famosas é o mural feito como crítica ao bombardeio alemão de Guernica durante a Guerra Civil Espanhola. Atualmente, a obra está em exposição permanente no Museu Nacional Centro de Arte Rainha Sofia, em Madri.</p>
                 </div>
                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 artigo3IMG1">
-                    <li>Joan Miró (1893-1983)</li>
+                    <li>Joan Miró (1893 - 1983)</li>
                     <img src="img/03_joan_miro.jpg" alt="foto de joan miró">
                     <p>O artista espanhol se formou em Barcelona e, em Paris, teve contato com tendências modernistas como o fauvismo e o dadaísmo. Após conhecer Picasso e André Breton, fundadores do surrealismo, Miró fez as obras "O Carnaval do Arlequim" e "Maternidade", que dão início a uma linguagem em que símbolos remetem a uma fantasia, opondo-se às profundezas da arte surreal.</p>
                 </div>

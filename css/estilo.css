@@ -112,14 +112,20 @@ img {
     margin-left: 2%;
 }
 
+.h3index {
+    margin-top: 5%;
+    margin-bottom: 1%;
+    background-color: black;
+    color: white;
+}
 .artigoIMG1, .artigoIMG2, .artigoIMG3, .artigoIMG4 {
     background-color: white;
-    font-size: 0.7em;
+    font-size: 0.9em;
     text-align: justify;
 }
 .artigoIMG1 h4, .artigoIMG2 h4, .artigoIMG3 h4, .artigoIMG4 h4 {
     color: blue;
-    font-size: 1.2em;
+    font-size: 1.3em;
 }
 
 .artigoIMG1 img, .artigoIMG2 img, .artigoIMG3 img, .artigoIMG4 img {
@@ -216,7 +222,7 @@ img {
 
 .sect1 {
     height: auto;
-    background-color: lightsteelblue;
+    background-color: white;
     width: auto;
 }
 
