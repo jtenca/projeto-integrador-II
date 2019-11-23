@@ -127,6 +127,21 @@ img {
     height: 300px;
 }
 
+#rotator{
+    border: 2px solid #CC0000;
+    overflow: hidden;
+    margin: 10px ;
+    padding:2px;
+    position: relative;
+    width: 260px;
+    height: 180px;
+}
+
+#rotator img{
+    border: 0;
+    width: 260px;
+    height: 180px;
+}
 
 #artigo2 {
     /*margin-top: 1%;*/
