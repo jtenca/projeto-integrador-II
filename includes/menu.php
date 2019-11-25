@@ -8,9 +8,9 @@
 
   <title>Document</title>
   
-<nav class="navbar navbar-expand-lg navbar-light fixed-top shadow p-3 mb-3" style="background-color: #FFFFFF;">
+<nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm p-3 mb-5 " style="background-color: #FFFFFF;">
       <a class="navbar-brand" href="index.php">
-        <img src="img/logo-brand.png" width="80" height="65" alt="">
+        <img src="img/logo-brand.png" width="85" height="65" alt="">
         </a>
          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
            <span class="navbar-toggler-icon"></span>
@@ -19,7 +19,7 @@
          <div class="collapse navbar-collapse" id="navbarSupportedContent">
            <ul class="navbar-nav m-auto p-2 ">
              <li class="nav-item active">
-               <a class="nav-link" href="index.php">Home</a>
+               <a class="nav-link" href="index.php">Início</a>
              </li>
 
              <li class="nav-item dropdown">
@@ -39,7 +39,7 @@
                        Cubismo
                  </a>
                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                     <a class="dropdown-item" href="cubismo-home.php">Home</a>
+                     <a class="dropdown-item" href="cubismo-home.php">Início</a>
                      <a class="dropdown-item" href="cubismo-historia.php">História</a>
                      <a class="dropdown-item" href="cubismo-artistas.php">Principais Artistas</a>
                      <a class="dropdown-item" href="cubismo-obras.php">Principais Obras</a>
@@ -62,7 +62,7 @@
                      Pop-Art
                  </a>
                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                     <a class="dropdown-item" href="popart.php">Home</a>
+                     <a class="dropdown-item" href="popart.php">Início</a>
                      <a class="dropdown-item" href="historia.php">História</a>
                      <a class="dropdown-item" href="principaisart.php">Principais Artistas</a>
                      <a class="dropdown-item" href="principaisobras.php">Principais Obras</a>
@@ -74,7 +74,7 @@
                        Surrealismo
                  </a>
                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                     <a class="dropdown-item" href="index-surrealismo.php">Home</a>
+                     <a class="dropdown-item" href="index-surrealismo.php">Início</a>
                      <a class="dropdown-item" href="surrealismo.php">História</a>
                      <a class="dropdown-item" href="principais-artistas-surrealismo.php">Principais Artistas</a>
                      <a class="dropdown-item" href="#">Principais Obras</a>

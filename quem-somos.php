@@ -86,26 +86,26 @@
 
                 <div>
                     <!--<p>Breve Biografia</p>-->
-                    <figure>
+                   
                         <h5>Breve Biografia</h5>
                         <img src="img/bio-icon.png" alt="ícone ilustrando biografia">
-                    </figure>
-                    <p class="text-justify">De Campinas-SP, vive há 20 anos na Cidade de Alumínio, Bacharel em Sistemas de Informação pela Faculdade Barão de Piratininga, cursando Sistemas para Internet na FATEC São Roque.</p>                    
+                    
+                    <p class="text-info text-justify">Bacharel em Sistemas de Informação pela Faculdade Barão de Piratininga, cursando Sistemas para Internet na FATEC São Roque.</p>                    
                 </div>
                 <div class="text-center">
                 <h5>Áreas Desenvolvidas</h5>
-                    <figure>
-                        <p><img src="img/html-coding.png" alt="ícone ilustrando código" /> Cubismo</p>
-                        <p><img src="img/html-coding.png" alt="ícone ilustrando código" /> Quem Somos</p>
-                    </figure>
+                 
+                        <p class="text-info"><img src="img/html-coding.png" alt="ícone ilustrando código" /> Cubismo</p>
+                        <p class="text-info"><img src="img/html-coding.png" alt="ícone ilustrando código" /> Quem Somos</p>
+                        <p class="text-info"><img src="img/html-coding.png" alt="ícone ilustrando código" />Design</p>
                 </div>
 
                 <div class="text-center mt-2">
                     <h5>Redes Sociais</h5>
                     <figure>
-                        <a href=""><img src="img/github.png" alt=""></a>
-                        <a href=""><img src="img/instagram.png" alt=""></a>
-                        <a href=""><img src="img/twitter.png" alt=""></a>
+                        <a href="https://github.com/jtenca"><img src="img/github.png" alt=""></a>
+                        <a href="https://www.instagram.com/tencaranbwc/"><img class="ml-4" src="img/instagram.png" alt=""></a>
+                        <a href="https://twitter.com/apenasren"><img class="ml-4" src="img/twitter.png" alt=""></a>
                     </figure>
                 </div>          
                
@@ -137,16 +137,13 @@
             </div>
         </div>
         </article>
+    </div>
 
-
-        <!----------------------------------------->
-
-        <div class="row">
+    <div class="row">
             <div class="col-12">
                 <?php include('includes/footer.php'); ?> 
             </div>
         </div>
-    </div>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
