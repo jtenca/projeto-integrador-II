@@ -46,8 +46,8 @@
                  </div>
              </li>
 
-             <li class="nav-item active dropdown">
-                 <a class="nav-link dropdown-toggle pl-4" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+             <li class="nav-item dropdown">
+                 <a class="nav-link dropdown-toggle pl-4" href="expressionismoHist.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                        Expressionismo
                  </a>
                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
