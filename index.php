@@ -260,7 +260,7 @@
                 </div>
                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 artigo3IMG1">
                     <li>Joan Miró (1893 - 1983)</li>
-                    <img src="img/03_joan_miro.jpg" alt="foto de joan miró">
+                    <img src="img/joan-miro.jpg" alt="foto de joan miró">
                     <p>O artista espanhol se formou em Barcelona e, em Paris, teve contato com tendências modernistas como o fauvismo e o dadaísmo. Após conhecer Picasso e André Breton, fundadores do surrealismo, Miró fez as obras "O Carnaval do Arlequim" e "Maternidade", que dão início a uma linguagem em que símbolos remetem a uma fantasia, opondo-se às profundezas da arte surreal.</p>
                 </div>
                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 artigo3IMG1">

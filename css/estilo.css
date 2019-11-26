@@ -295,13 +295,18 @@ img {
     border: 4px solid black;
 }
 
+.ArtistasObras figure {
+    float: left;
+    text-align: center;
+    margin-right: 4px;
+}
+
 .ArtistasObras img {
     height: 220px;
     width: 220px;
     border-radius: 15%;
     border: 4px solid black;
 }
-
 .artista1, .artista2, .artista3, .artista4, .artista5, .artista6, .artista7 {
     /*border: 1px solid blue;*/
 
