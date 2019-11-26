@@ -90,14 +90,14 @@
                         <h5>Breve Biografia</h5>
                         <img src="img/bio-icon.png" alt="ícone ilustrando biografia">
                     
-                    <p class="text-info text-justify">Bacharel em Sistemas de Informação pela Faculdade Barão de Piratininga, cursando Sistemas para Internet na FATEC São Roque.</p>                    
+                    <p class="text-justify">Bacharel em Sistemas de Informação pela Faculdade Barão de Piratininga, cursando Sistemas para Internet na FATEC São Roque.</p>                    
                 </div>
                 <div class="text-center">
                 <h5>Áreas Desenvolvidas</h5>
                  
-                        <p class="text-info"><img src="img/html-coding.png" alt="ícone ilustrando código" /> Cubismo</p>
-                        <p class="text-info"><img src="img/html-coding.png" alt="ícone ilustrando código" /> Quem Somos</p>
-                        <p class="text-info"><img src="img/html-coding.png" alt="ícone ilustrando código" />Design</p>
+                        <p class=""><img src="img/html-coding.png" alt="ícone ilustrando código" /> Cubismo</p>
+                        <p class=""><img src="img/html-coding.png" alt="ícone ilustrando código" /> Quem Somos</p>
+                        <p class=""><img src="img/html-coding.png" alt="ícone ilustrando código" />Parte do Design</p>
                 </div>
 
                 <div class="text-center mt-2">
