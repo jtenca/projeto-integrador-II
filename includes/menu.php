@@ -1,3 +1,4 @@
+<!--
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,7 +9,7 @@
     <link rel="stylesheet" href="css/estilo.css" />
 
     <title>Document</title>
-
+    !-->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm p-3 mb-5 " style="background-color: #FFFFFF;">
         <a class="navbar-brand" href="index.php">
             <img src="img/logo-brand.png" width="85" height="65" alt="">

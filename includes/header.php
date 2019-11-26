@@ -1,3 +1,4 @@
+<!--
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -10,8 +11,9 @@
 <body>
     <header>
            
-        <!--<img src="img/logo-brand.png" alt=""/>-->
+        <!--<img src="img/logo-brand.png" alt=""/>
            
     </header>
 </body>
 </html>
+!-->

@@ -2,13 +2,11 @@
 <html lang="pt-br">
 
 <head>
-
     <?php include('includes/head.php'); ?>
     <title>Los Hellen</title>
 </head>
 
 <body>
-
     <div class="row">
         <div class="col-12">
             <header>
@@ -16,6 +14,7 @@
             </header>
         </div>
     </div>
+
     <div class="row">
         <div class="col-12 shadow-sm">
             <nav>
@@ -28,7 +27,8 @@
         <article class="artigoGeral sect1">
             <div id="artigo" class="row no-gutter">
                 <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 artigonovi no-gutter">
-                    <h1 class="artigoh1"> Curiosidades</h1>
+                    <h2 class="artigoh1"> Curiosidades</h2>
+                    <hr noshade="noshade" width=“100%” size=“100”>
                     <p> Aqui temos algumas das obras mais caras já comercializadas!</p>
                     <section class="row ObrasCaras">
                         <div class="1OC col-6">
@@ -52,7 +52,7 @@
                     </section>
                 </div>
                 <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 artigoinfo no-gutter">
-                    <h1 class="artigoh1"> Informações</h1>
+                    <h2 class="artigoh1"> Informações</h2>
                     <div class="row">
                         <hr noshade="noshade" width=“100%” size=“100”>
                     </div>
