@@ -3,7 +3,7 @@
         <!--<div class="links">
         <a class="text-left" href="#">Quem Somos</a>
         <a href="#">Fale Conosco</a>
-        </div>-->
+        </div>!-->
         
         <div class="icones col-6">
             <img class="ml-lg-5" src="img/fb_icon.png" alt="ícone do facebook" />

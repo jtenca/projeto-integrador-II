@@ -7,19 +7,16 @@
 </head>
 
 <body>
-    <div class="row">
-        <div class="col-12">
-            <header>
-                <?php include('includes/header.php'); ?>
-            </header>
+    <header>
+        <div class="row">
+            <div class="col-12">
+                <!--?php include('includes/header.php'); ?!-->
+            </div>
         </div>
-    </div>
-
+    </header>
     <div class="row">
         <div class="col-12 shadow-sm">
-            <nav>
-                <?php include('includes/menu.php'); ?>
-            </nav>
+            <?php include('includes/menu.php'); ?>
         </div>
     </div>
     <!---------------- CONTEÚDO --------------->
@@ -282,10 +279,11 @@
                     <p>Tarsila do Amaral foi uma pintora, desenhista e tradutora brasileira e uma das figuras centrais da pintura e da primeira fase do movimento modernista no Brasil, ao lado de Anita Malfatti. Seu quadro Abaporu, de 1928, inaugura o movimento antropofágico nas artes plásticas.</p>
                 </div>
                 <hr noshade="noshade" width=“100%” size=“100”>
+            </div>
         </article>
-    </div> <!-- fechamento div container -->
+    </div> <!-- fechamento div container            !-->
 
-    <!-------------------------------->
+    <!--------------------------------footer       !-->
     <div class="row">
         <div class="col-12">
             <?php include('includes/footer.php'); ?>
