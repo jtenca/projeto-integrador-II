@@ -28,8 +28,11 @@
 
         <!---------------- CONTEÚDO --------------->
 
-        <section class="container">
+        <section class="container mb-4">
+
+        <h2 class="text-center mb-4">Principais Artistas Pop Art</h2>
             <div class="row">
+            
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
                         <img src="img/Jasper_Johns.jpg" alt="Perfil Jasper Johns">                        
@@ -58,7 +61,7 @@
 
             </div>
 
-            <div class="row">
+            <div class="row mt-4">
 
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>

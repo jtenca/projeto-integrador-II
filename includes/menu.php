@@ -51,7 +51,7 @@
 
             <li class="nav-item active dropdown">
                 <a class="nav-link dropdown-toggle pl-4" href="popart.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Pop-Art
+                    Pop Art
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="popart.php">Início</a>

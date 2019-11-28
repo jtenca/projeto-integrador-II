@@ -29,31 +29,52 @@
 
         <div class="container">
 
-        <section class="artistas_container">
+        <section class="artistas_container mb-4">
+        <h2 class="text-center mb-4">Principais Obras Pop Art</h2>
             <div class="row">
-                <div class="col-2">
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
                         <img src="img/mikey-andy-wahrol.jpg" alt="Obra de Andy Wahrol">
                         <figcaption>Quadrant Mickey Mouse (1981), de Andy Wahrol. </figcaption>
+                    </figure>
+                </div>
 
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+                    <figure>
                         <img src="img/MarilynMonroe_andy.jpg" alt="Obra de Andy Wahrol">
                         <figcaption>Marilyn Monroe (1962), Andy Warhol. </figcaption>
+                    </figure>
+                </div>
 
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+                    <figure>
                         <img src="img/roy-lichtenstein-gopnik-tease.jpg" alt="Obra de Roy Lichtensteins">
                         <figcaption>Oh, Jeff...I Love You, Too...But...(1964), Roy Lichtenstein.</figcaption>
-
+                    </figure>
+                </div>
+            </div>
+            <div class="row mt-4">
+                
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+                    <figure>
                         <img src="img/forgetit_forgetme.jpg" alt="Obra de Roy Lichtenstein">
                         <figcaption>Forget it! Forget me!(1962), Roy Lichtenstein. </figcaption>
-                        
-                        <img src="img/mao-tse-cke.jpg" alt="Obra de Andy Warhol">
-                        <figcaption>Mao Tse Tung (1972), Andy Warhol. </figcaption>
-                        
+                    </figure>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+                    <figure>
                         <img src="img/colagemderichardhamilton.jpg" alt="Obra de Richard Hamilton">
                         <figcaption>Colagem de This is Tomorrow (1956), Richard Hamilton. </figcaption>
-
                     </figure>
+                </div>
 
-
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+                    <figure>
+                        <img src="img/mao-tse-cke.jpg" alt="Obra de Andy Warhol">
+                        <figcaption>Mao Tse Tung (1972), Andy Warhol. </figcaption>
+                    </figure>
+                </div>
 
 
                 </div>
