@@ -49,7 +49,7 @@
                 </div>
             </li>
 
-            <li class="nav-item disabled dropdown">
+            <li class="nav-item active dropdown">
                 <a class="nav-link dropdown-toggle pl-4" href="popart.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Pop-Art
                 </a>

@@ -35,7 +35,7 @@
             <div class="col-lg-2 col-12 d-lg-block d-xl-block d-md-none">
                 <div class="row">
                     <div class="col-6 col-lg-12">
-                        <img src="img/einstein.jpg" alt="Albert Einstein Pop Art">
+                        <img src="img/albert-einstein-pop-art-emc2.jpg" alt="Albert Einstein Pop Art">
                     </div>
 
                     <div class="col-6 col-lg-12">
@@ -67,7 +67,7 @@
             <div class="col-lg-2 col-12 d-lg-block d-xl-block d-md-none">
                 <div class="row">
                     <div class="col-6 col-lg-12">
-                        <img src="img/einstein.jpg" alt="Albert Einstein Pop Art">
+                        <img src="img/albert-einstein-pop-art-emc2.jpg" alt="Albert Einstein Pop Art">
                     </div>
 
                     <div class="col-6 col-lg-12">

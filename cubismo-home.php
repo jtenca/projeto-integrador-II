@@ -69,7 +69,7 @@
                     <p class="text-justify">Com 349 cm de altura por 776,5 cm de comprimento, Guernica, uma das obras mais famosas de Pablo Picasso.</p>
                     <figure>
                         <img src="img/guernica-picasso.jpg" alt="Figuras que remetem a faces humanas e animalescas em agonia">
-                        <figurecaption class="text-center">Guernica de Pablo Picasso - 1937</figurecaption>   
+                        <figcaption class="text-center">Guernica de Pablo Picasso - 1937</figcaption>   
                     </figure>
 
                     <h4>Sobre Guernica:</h4>

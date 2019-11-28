@@ -39,17 +39,26 @@
             
             <section class="history_container">
             <div class="row">
-                <div class="col-4">
+                <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
                         <img src="img/michael_jackson.jpg" alt="imagem com rosto do cantor Michael Jackson em pop art">
-                        <img src="img/marilynMonroe2.jpg" alt="Imagem de Marilyn Monroe em pop art">
-                        <img src="img/Pop-Art-2.jpg" alt="imagem do rosto de uma mulher loira em pop art">
                         
                     </figure>
-
-
-
                 </div>
+
+
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <figure>
+                    <img src="img/marilynMonroe2.jpg" alt="Imagem de Marilyn Monroe em pop art">
+                </figure>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <figure>         
+                    <img src="img/Pop-Art-2.jpg" alt="imagem do rosto de uma mulher loira em pop art">
+                </figure>
+            </div>
+
             </div>
 
         </section>
