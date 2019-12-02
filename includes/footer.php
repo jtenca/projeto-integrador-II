@@ -1,4 +1,4 @@
-<footer class="mt-4 mb-2">
+<footer class="m-5">
     <section class="row">
         <!--<div class="links">
         <a class="text-left" href="#">Quem Somos</a>
