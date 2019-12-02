@@ -96,6 +96,7 @@
                 <h5>Áreas Desenvolvidas</h5>
                  
                         <p class=""><img src="img/html-coding.png" alt="ícone ilustrando código" /> Cubismo</p>
+                        <p class=""><img src="img/html-coding.png" alt="ícone ilustrando código" />Parte de Pop Art</p>
                         <p class=""><img src="img/html-coding.png" alt="ícone ilustrando código" /> Quem Somos</p>
                         <p class=""><img src="img/html-coding.png" alt="ícone ilustrando código" />Parte do Design</p>
                 </div>
@@ -125,15 +126,19 @@
             </div>
 
 
-            <div class="col-lg-4 col-md-4 col-sm-4 mt-4">
-                <h5 class="text-center">Weica</h5>
+            <div class="col-lg-4 col-md-4 col-sm-4">
+                <h5 class="text-center">Werica</h5>
                 <figure class="text-lg-center text-md-center ">
                 <img src="img/user-icon.png" alt="..." class="rounded-circle">
                 </figure>
-                <p class="text-justify">Breve Biografia</p>
 
-                <p class="text-justify">Redes Sociais</p>
-                <p class="text-justify">Áreas desenvolvidas</p>
+                <div class="text-center">
+                <h5>Áreas Desenvolvidas</h5>
+                 
+                    <p class=""><img src="img/html-coding.png" alt="ícone ilustrando código" />Pop Art</p>              
+                </div>
+
+                     
             </div>
         </div>
         </article>
