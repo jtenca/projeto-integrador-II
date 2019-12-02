@@ -81,14 +81,14 @@
             <div class="col-lg-4 col-md-4 col-sm-4">
                 <h5 class="text-center">Jessica</h5>
                 <figure class="text-lg-center text-md-center ">
-                <img src="img/user-icon.png" alt="..." class="rounded-circle">
+                <img src="img/jess.png" alt="..." class="rounded-circle">
                 </figure>
 
                 <div>
                     <!--<p>Breve Biografia</p>-->
                    
-                        <h5>Breve Biografia</h5>
-                        <img src="img/bio-icon.png" alt="ícone ilustrando biografia">
+                        <h5><img src="img/bio-icon.png" alt="ícone ilustrando biografia">Breve Biografia</h5>
+                        
                     
                     <p class="text-justify">Bacharel em Sistemas de Informação pela Faculdade Barão de Piratininga, cursando Sistemas para Internet na FATEC São Roque.</p>                    
                 </div>
