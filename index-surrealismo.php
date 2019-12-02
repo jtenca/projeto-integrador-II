@@ -26,23 +26,68 @@
 
         <!---------------- CONTEÚDO --------------->
         <div class="container">
-        <div class="row">
-            <div class="col-4 m-2">
-                <section>
-                    <h5>Novidades</h5>
+            <div class="row">
 
-                    <p class="text-justify">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+                <div class="col-lg-3 col-md-5 col-sm-12">
+                    <section>
+                    
+                    <div class="linha-cronologica">
+                    <h4 class="text-center">Linha Cronológica</h4>
+                    </div><!-- div linha cronológica --->
 
-</p>
-                </section>
-            </div>
+                    <div class="artistas-precursores">
+                    <h4>Artistas Precursores</h4>
+                    </div><!-- div artistas precursores --->
 
-            <div class="col-4 m-2">
-                <figure>
-                    <img src="img/" alt="">
-                </figure>
-            </div>
-        </div>
+                    <div class="artistas-precursores">
+                    <h4>Artistas Precursores</h4>
+                    </div><!-- div significado --->
+                    
+                    </section>
+                </div>
+
+                <div class="col-lg-6 col-md-7 col-sm-12">
+                    <article>
+                    <h3 class="text-center">História do Surrealismo</h3>
+
+                    <figure>
+                        <img src="" alt="">
+
+                        <figcaption></figcaption>
+                    </figure>
+
+                    </article>
+                </div>
+
+
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <aside>
+                    <h4>Obras de Destaque</h4>
+
+                    <figure>
+                        <img src="" alt="">
+
+                        <figcaption></figcaption>
+                    </figure>
+
+                    <figure>
+                        <img src="" alt="">
+
+                        <figcaption></figcaption>
+                    </figure>
+
+                    <figure>
+                        <img src="" alt="">
+
+                        <figcaption></figcaption>
+                    </figure>
+
+                    
+                    </aside>
+                </div>
+
+            </div><!------ div row ------->
+        </div><!------ div container -------->
 
         <!-------------------------------->
         <div class="row">
