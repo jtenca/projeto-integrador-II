@@ -34,7 +34,7 @@
             <div class="row">
             
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
-                    <figure>
+                    <figure class="artistas-popart">
                         <img src="img/Jasper_Johns.jpg" alt="Perfil Jasper Johns">                        
                        <figcaption>Jasper Johns</figcaption>
                     </figure>
@@ -44,7 +44,7 @@
 
 
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
-                    <figure>
+                    <figure class="artistas-popart">
                         <img  src="img/Peter_Blake.jpg" alt="Perfil Perter Blake">
                         <figcaption>Perter Blake</figcaption>
                     </figure>
@@ -52,7 +52,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
-                    <figure>
+                    <figure class="artistas-popart">
                         <img src="img/Andy_Warhol.jpg" alt="Perfil Andy Warhol">
                         <figcaption>Andy Warhol</figcaption>
                     </figure>
@@ -64,7 +64,7 @@
             <div class="row mt-4">
 
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
-                    <figure>
+                    <figure class="artistas-popart">
                         <img src="img/Richard_Hamilton.jpg" alt="Perfil Richard Hamilton">
                         <figcaption>Richard Hamilton</figcaption>
                     </figure>
@@ -72,7 +72,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
-                    <figure>
+                    <figure class="artistas-popart">
                         <img src="img/wayne_Thiebaud.jpg" alt="Perfil Wayne Thiebaud">
                         <figcaption>Wayne Thiebaud</figcaption>
                         <p class="text-justify">Pintor dos Estados Unidos. Seu estilo realista e o tema do cotidiano estão associados à Pop art, pois ele celebra o banal com uma mistura ambígua de familiaridade e desinteresse emocional.</p>
@@ -80,7 +80,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
-                    <figure>
+                    <figure class="artistas-popart">
                         <img src="img/Roy_Lichtenstein.jpg" alt="Perfil Roy Lichtensteins">
                         <figcaption>Roy Lichtensteins</figcaption>
                     </figure>
