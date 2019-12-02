@@ -63,6 +63,11 @@ img {
     margin: 1rem;
 }
 
+.artistas-popart {
+    border-left: 6px solid #112E60;
+    ;
+}
+
 /*---------------------- Erwin CSS ---------------------*/
 
 .artigoinfo {
