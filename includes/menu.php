@@ -69,7 +69,7 @@
                     <a class="dropdown-item" href="index-surrealismo.php">Início</a>
                     <a class="dropdown-item" href="surrealismo.php">História</a>
                     <a class="dropdown-item" href="principais-artistas-surrealismo.php">Principais Artistas</a>
-                    <a class="dropdown-item" href="#">Principais Obras</a>
+                    <a class="dropdown-item" href="principais-obras-surrealismo.php">Principais Obras</a>
                 </div>
             </li>
 
