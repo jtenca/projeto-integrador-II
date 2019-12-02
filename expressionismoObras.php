@@ -46,24 +46,34 @@
                             <h4>Salvador Dali</h4>
                         </div>
                         <div class="row justify-content-md-center zoom">
-                            <a href="#"><img src="img/01_salvador-dali.jpg" alt="pintor Salvador Dali"></a>
+                            <!--<a href="#">!-->
+                            <img src="img/01_salvador-dali.jpg" alt="pintor Salvador Dali">
+                            <!--</a>!-->
                         </div>
                         <p></p>
                         <div class="ArtistasObras">
                             <figure class="zoom">
-                                <a href="#"><img src="img/01_1.jpg" alt="quadro a persistencia da memoria"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/01_1.jpg" alt="quadro a persistencia da memoria">
+                                <!--</a>!-->
                                 <figcaption>A persistencia da memoria</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/01_2.jpg" alt="quadro a tentacao de santo antonio"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/01_2.jpg" alt="quadro a tentacao de santo antonio">
+                                <!--</a>!-->
                                 <figcaption>a tentacao de santo antonio</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/01_3.jpg" alt="quadro enigma sem fim"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/01_3.jpg" alt="quadro enigma sem fim">
+                                <!--</a>!-->
                                 <figcaption>enigma sem fim</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/01_4.jpg" alt="quadro Autorretrato com L’Humanité"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/01_4.jpg" alt="quadro Autorretrato com L’Humanité">
+                                <!--</a>!-->
                                 <figcaption>Autorretrato com L’Humanité</figcaption>
                             </figure>
                         </div>
@@ -72,31 +82,40 @@
 
 
                     <!--Artista 02 !-->
-
                     <hr noshade="noshade" width=“100%” size=“100” style="clear:both;">
                     <div class="artista2">
                         <div class="row justify-content-md-center">
                             <h4>Max Ernst</h4>
                         </div>
                         <div class="row justify-content-md-center zoom">
-                            <a href="#"><img class="IMGartista" src="img/02_max-ernst.jpg" alt="pintor Max Ernst"></a>
+                            <!--<a href="#">!-->
+                            <img class="IMGartista" src="img/02_max-ernst.jpg" alt="pintor Max Ernst">
+                            <!--</a>!-->
                         </div>
                         <p></p>
                         <div class="ArtistasObras">
                             <figure class="zoom">
-                                <a href="#"><img src="img/02_1.jpg" alt="quadro quadro a cidade"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/02_1.jpg" alt="quadro quadro a cidade">
+                                <!--</a>!-->
                                 <figcaption>quadro a cidade</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/02_2.jpg" alt="quadro the beautiful season"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/02_2.jpg" alt="quadro the beautiful season">
+                                <!--</a>!-->
                                 <figcaption>the beautiful season</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/02_3.jpg" alt="quadro a atrte do delírio"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/02_3.jpg" alt="quadro a atrte do delírio">
+                                <!--</a>!-->
                                 <figcaption>a atrte do delírio</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/02_4.jpg" alt="quadro colunas tortas"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/02_4.jpg" alt="quadro colunas tortas">
+                                <!--</a>!-->
                                 <figcaption>colunas tortas</figcaption>
                             </figure>
                         </div>
@@ -110,24 +129,34 @@
                             <h4>Joan Miró</h4>
                         </div>
                         <div class="row justify-content-md-center zoom">
-                            <a href="#"><img class="IMGartista" src="img/03_joan_miro.jpg" alt="pintor Joan Miró"></a>
+                            <!--<a href="#">!-->
+                            <img class="IMGartista" src="img/03_joan_miro.jpg" alt="pintor Joan Miró">
+                            <!--</a>!-->
                         </div>
                         <p></p>
                         <div class="ArtistasObras">
                             <figure class="zoom">
-                                <a href="#"><img src="img/03_1.jpg" alt="quadro interiores holandeses"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/03_1.jpg" alt="quadro interiores holandeses">
+                                <!--</a>!-->
                                 <figcaption>interiores holandeses</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/03_2.jpg" alt="quadro o carnaval do arlequim"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/03_2.jpg" alt="quadro o carnaval do arlequim">
+                                <!--</a>!-->
                                 <figcaption>o carnaval do arlequim</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/03_3.jpg" alt="quadro La Granja"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/03_3.jpg" alt="quadro La Granja">
+                                <!--</a>!-->
                                 <figcaption>La Granja</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/03_4.jpg" alt="quadro O Caçador"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/03_4.jpg" alt="quadro O Caçador">
+                                <!--</a>!-->
                                 <figcaption>O Caçador</figcaption>
                             </figure>
                         </div>
@@ -141,24 +170,34 @@
                             <h4>René Magritte</h4>
                         </div>
                         <div class="row justify-content-md-center zoom">
-                            <a href="#"><img class="IMGartista" src="img/04_rene_magritte.jpg" alt="pintor René Magritte"></a>
+                            <!--<a href="#">!-->
+                            <img class="IMGartista" src="img/04_rene_magritte.jpg" alt="pintor René Magritte">
+                            <!--</a>!-->
                         </div>
                         <p></p>
                         <div class="ArtistasObras">
                             <figure class="zoom">
-                                <a href="#"><img src="img/04_1.jpg" alt="quadro la-grande-guerre"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/04_1.jpg" alt="quadro la-grande-guerre">
+                                <!--</a>!-->
                                 <figcaption>la-grande-guerre</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/04_2.jpg" alt="quadro The Future of Statues"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/04_2.jpg" alt="quadro The Future of Statues">
+                                <!--</a>!-->
                                 <figcaption>The Future of Statues</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/04_3.jpg" alt="quadro Les Amants Lovers"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/04_3.jpg" alt="quadro Les Amants Lovers">
+                                <!--</a>!-->
                                 <figcaption>Les Amants Lovers</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/04_4.jpg" alt="quadro Beautiful Relations oil canvas"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/04_4.jpg" alt="quadro Beautiful Relations oil canvas">
+                                <!--</a>!-->
                                 <figcaption>Beautiful Relations oil canvas</figcaption>
                             </figure>
                         </div>
@@ -172,24 +211,34 @@
                             <h4>Frida Kahlo</h4>
                         </div>
                         <div class="row justify-content-md-center zoom">
-                            <a href="#"><img class="artista" src="img/05_frida_kalho.jpg" alt="pintora Frida Kahlo"></a>
+                            <!--<a href="#">!-->
+                            <img class="artista" src="img/05_frida_kalho.jpg" alt="pintora Frida Kahlo">
+                            <!--</a>!-->
                         </div>
                         <p></p>
                         <div class="ArtistasObras">
                             <figure class="zoom">
-                                <a href="#"><img src="img/05_1.jpg" alt="quadro frida e diego rivera"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/05_1.jpg" alt="quadro frida e diego rivera">
+                                <!--</a>!-->
                                 <figcaption>frida e diego rivera</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/05_2.jpg" alt="quadro acervo-banco-de-mexico-diego-rivera-frida-kahlo-museums-trust"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/05_2.jpg" alt="quadro acervo-banco-de-mexico-diego-rivera-frida-kahlo-museums-trust">
+                                <!--</a>!-->
                                 <figcaption>1</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/05_3.jpg" alt="quadro 3"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/05_3.jpg" alt="quadro 3">
+                                <!--</a>!-->
                                 <figcaption>2</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/05_4.jpg" alt="quadro 4"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/05_4.jpg" alt="quadro 4">
+                                <!--</a>!-->
                                 <figcaption>3</figcaption>
                             </figure>
                         </div>
@@ -203,24 +252,34 @@
                             <h4>Edvard Munch</h4>
                         </div>
                         <div class="row justify-content-md-center zoom">
-                            <a href="#"><img class="artista" src="img/06_edvard_munch.jpg" alt="pintor Edvard Munch"></a>
+                            <!--<a href="#">!-->
+                            <img class="artista" src="img/06_edvard_munch.jpg" alt="pintor Edvard Munch">
+                            <!--</a>!-->
                         </div>
                         <p></p>
                         <div class="ArtistasObras">
                             <figure class="zoom">
-                                <a href="#"><img src="img/06_1.jpg" alt="quadro The danc of life de Edvard Munch"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/06_1.jpg" alt="quadro The danc of life de Edvard Munch">
+                                <!--</a>!-->
                                 <figcaption>The danc of life</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/06_2.jpg" alt="quadro O Grito"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/06_2.jpg" alt="quadro O Grito">
+                                <!--</a>!-->
                                 <figcaption>O Grito</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/06_3.jpg" alt="quadro Amor e Dor"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/06_3.jpg" alt="quadro Amor e Dor">
+                                <!--</a>!-->
                                 <figcaption>Amor e Dor</figcaption>
                             </figure>
                             <figure class="zoom">
-                                <a href="#"><img src="img/06_4.jpg" alt="quadro Anciedade"></a>
+                                <!--<a href="#">!-->
+                                <img src="img/06_4.jpg" alt="quadro Anciedade">
+                                <!--</a>!-->
                                 <figcaption>Anciedade</figcaption>
                             </figure>
                         </div>

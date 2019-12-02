@@ -36,14 +36,11 @@
 
         <!---------------- CONTEÚDO --------------->
         <div class="container">
-
-        <h4 class="text-center">Quem Somos</h4>
-
         <article class="mt-4">
-        
+        <h4 class="text-center">Quem Somos</h4>
         <div class="row">
-            <div class="col-lg-4 col-md-6 col-sm-12 text-center">
-                <h3 class="text-center">Erwin Bogner</h3>
+            <div class="col-lg-4 col-md-4 col-sm-4">
+                <h5 class="text-center">Erwin Bogner</h5>
                 <figure class="text-lg-center text-md-center ">
                 <img src="img/erwinV1.jpg" alt="desenvolvedor do portal, Erwin Bogner" class="rounded-circle" width="160" height="160">
                 </figure>
@@ -69,39 +66,39 @@
             </div>
 
 
-            <div class="col-lg-4 col-md-6 col-sm-12 text-center">
-                <h3 class="text-center">Hellen</h3>
+            <div class="col-lg-4 col-md-4 col-sm-4 ">
+                <h5 class="text-center">Ellen</h5>
                 <figure class="text-lg-center text-md-center ">
-                <img src="img/user-icon.png" alt="..." class="rounded-circle">
+                <img src="img/ellen.jpg" alt="..." class="rounded-circle">
                 </figure>
-                <p class="text-justify">Breve Biografia</p>
+                <p class="text-justify"> Técnica em Administraçao de empresas, cursando Sistemas para internet na FATEC de São Roque.</p>
 
-                <p class="text-justify">Redes Sociais</p>
-                <p class="text-justify">Áreas desenvolvidas</p>
+                <p class="text-justify"><a href="https://www.facebook.com/ellen.gabrieladasilva"> Facebook </a></p>
+                <p class="text-justify"> <a href= "https://www.instagram.com/?hl=pt-br ">Instagram </a></p>
+                <p class="text-justify"> Abstracionismo</p>
             </div>
 
 
-            <div class="col-lg-4 col-md-6 col-sm-12 mb-5 text-center">
-                <h3 class="text-center">Jessica</h3>
+            <div class="col-lg-4 col-md-4 col-sm-4">
+                <h5 class="text-center">Jessica</h5>
                 <figure class="text-lg-center text-md-center ">
-                <img src="img/jess.png" alt="..." class="rounded-circle">
+                <img src="img/user-icon.png" alt="..." class="rounded-circle">
                 </figure>
 
                 <div>
                     <!--<p>Breve Biografia</p>-->
                    
-                        <h5><img src="img/bio-icon.png" alt="ícone ilustrando biografia">Breve Biografia</h5>
-                        
+                        <h5>Breve Biografia</h5>
+                        <img src="img/bio-icon.png" alt="ícone ilustrando biografia">
                     
-                    <p class="text-justify">Bacharel em Sistemas de Informação pela Faculdade Barão de Piratininga, cursando Sistemas para Internet na FATEC São Roque.</p>                    
+                    <p class="text-info text-justify">Bacharel em Sistemas de Informação pela Faculdade Barão de Piratininga, cursando Sistemas para Internet na FATEC São Roque.</p>                    
                 </div>
                 <div class="text-center">
                 <h5>Áreas Desenvolvidas</h5>
                  
-                        <p><img src="img/html-coding.png" alt="ícone ilustrando código" /><a href="cubismo-home.php">Cubismo</a></p>
-                        <p class=""><img src="img/html-coding.png" alt="ícone ilustrando código" /><a href="popart.php">Parte de Pop Art</a></p>
-                        <p class=""><img src="img/html-coding.png" alt="ícone ilustrando código" /><a href="quem-somos.php">Quem Somos</a></p>
-                        <p class=""><img src="img/html-coding.png" alt="ícone ilustrando código" />Parte do Design</p>
+                        <p class="text-info"><img src="img/html-coding.png" alt="ícone ilustrando código" /> Cubismo</p>
+                        <p class="text-info"><img src="img/html-coding.png" alt="ícone ilustrando código" /> Quem Somos</p>
+                        <p class="text-info"><img src="img/html-coding.png" alt="ícone ilustrando código" />Design</p>
                 </div>
 
                 <div class="text-center mt-2">
@@ -117,8 +114,8 @@
         </div> <!-- div row --->
 
         <div class="row">
-        <div class="col-lg-4 col-md-6 col-sm-12 text-center">
-                <h3 class="text-center">Kelvin</h3>
+        <div class="col-lg-4 col-md-4 col-sm-4 mt-4">
+                <h5 class="text-center">Kelvin</h5>
                 <figure class="text-lg-center text-md-center ">
                 <img src="img/user-icon.png" alt="..." class="rounded-circle">
                 </figure>
@@ -129,19 +126,15 @@
             </div>
 
 
-            <div class="col-lg-4 col-md-6 col-sm-12 text-center">
-                <h3 class="text-center">Werica</h3>
+            <div class="col-lg-4 col-md-4 col-sm-4 mt-4">
+                <h5 class="text-center">Weica</h5>
                 <figure class="text-lg-center text-md-center ">
                 <img src="img/user-icon.png" alt="..." class="rounded-circle">
                 </figure>
+                <p class="text-justify">Breve Biografia</p>
 
-                <div class="text-center">
-                <h5>Áreas Desenvolvidas</h5>
-                 
-                    <p class=""><img src="img/html-coding.png" alt="ícone ilustrando código" />Pop Art</p>              
-                </div>
-
-                     
+                <p class="text-justify">Redes Sociais</p>
+                <p class="text-justify">Áreas desenvolvidas</p>
             </div>
         </div>
         </article>
